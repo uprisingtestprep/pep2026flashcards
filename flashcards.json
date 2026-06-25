@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "chapter": 1,
+    "front": "What are the three required elements of valid informed consent for a pediatric procedure?",
+    "back": "The decision-maker must have capacity, the consent must be voluntary and free of coercion, and the provider must disclose the nature, risks, benefits, and alternatives including no intervention."
+  },
+  {
+    "id": 2,
+    "chapter": 1,
+    "front": "What is the emergency exception (implied consent) in pediatric care?",
+    "back": "It permits treatment of a child without parental authorization when a delay to obtain consent would jeopardize life or limb. It is narrowly construed to stabilizing emergencies, not elective procedures that can wait."
+  },
+  {
+    "id": 3,
+    "chapter": 1,
+    "front": "What is the difference between assent and consent in a child?",
+    "back": "Consent is the legal authorization given by a parent or guardian. Assent is the child's own age-appropriate agreement, which should be sought when feasible but carries no legal weight."
+  },
+  {
+    "id": 4,
+    "chapter": 1,
+    "front": "Why must pediatric weight be documented in kilograms only?",
+    "back": "Pediatric dosing and equipment selection are weight-driven, and recording weight in kilograms only, never pounds, eliminates a notorious source of tenfold and twofold dosing errors."
+  },
+  {
+    "id": 5,
+    "chapter": 1,
+    "front": "When is sterile technique mandatory versus clean technique?",
+    "back": "Sterile technique is required for procedures breaching a sterile compartment such as central lines, lumbar puncture, tube thoracostomy, and arthrocentesis. Clean technique suffices for peripheral IVs, simple laceration repair, and NG tubes."
+  },
+  {
+    "id": 6,
+    "chapter": 1,
+    "front": "Why is chlorhexidine avoided in infants under two months of age?",
+    "back": "Chlorhexidine carries a risk of chemical burns on immature neonatal skin, so povidone-iodine is often substituted, then removed after the procedure to limit transcutaneous iodine absorption."
+  },
+  {
+    "id": 7,
+    "chapter": 1,
+    "front": "What is the purpose of the procedure time-out?",
+    "back": "It is a structured team pause before the procedure to confirm correct patient, correct procedure, correct site and side, and correct positioning, and to surface any concerns."
+  },
+  {
+    "id": 8,
+    "chapter": 1,
+    "front": "How many patient identifiers are used during verification, and what are they typically?",
+    "back": "At least two identifiers are used, typically full name and date of birth, confirmed against the wristband and, when possible, with the parent."
+  },
+  {
+    "id": 9,
+    "chapter": 1,
+    "front": "Which pediatric error rivals the wrong-site error in frequency during a time-out?",
+    "back": "The wrong-weight error. The verified weight in kilograms and resulting equipment sizes and drug doses should be stated aloud during verification for any procedure involving sizing or dosing."
+  },
+  {
+    "id": 10,
+    "chapter": 1,
+    "front": "What does the CUS script stand for in speaking-up culture?",
+    "back": "I am Concerned, I am Uncomfortable, this is a Safety issue. It gives junior staff a structured scaffold for escalating concerns when hierarchy might silence them."
+  },
+  {
+    "id": 11,
+    "chapter": 1,
+    "front": "How should a correction to a paper procedure note be made?",
+    "back": "Strike through with a single line, initial and date the change, and never obliterate the original entry. In electronic records, use the formal addendum function rather than editing original text."
+  },
+  {
+    "id": 12,
+    "chapter": 1,
+    "front": "What should a complete pediatric procedure note record?",
+    "back": "Indication, consent and from whom, the time-out, weight in kilograms, sedation doses and times, equipment sizes, step-by-step technique, blood loss, patient tolerance, complications, and the post-procedure plan."
+  },
+  {
+    "id": 13,
+    "chapter": 1,
+    "front": "How should suspected abuse injuries be documented in a procedure note?",
+    "back": "Describe injuries objectively, recording size, shape, color, and location rather than interpreting cause, and quote the caregiver's stated history verbatim when the mechanism is in question."
+  },
+  {
+    "id": 14,
+    "chapter": 1,
+    "front": "What is the recommended role for a parent during a child's procedure?",
+    "back": "The parent should comfort the child while staff perform any immobilization. Family-present care reduces anxiety when the parent is coached in a supportive rather than restraining role."
+  },
+  {
+    "id": 15,
+    "chapter": 1,
+    "front": "How should discharge understanding be confirmed with a caregiver?",
+    "back": "Have the caregiver describe the plan back in their own words, in their preferred language with an interpreter when needed, rather than relying on a bilingual child to translate."
+  },
+  {
+    "id": 16,
+    "chapter": 1,
+    "front": "What governs a guardian's refusal of necessary treatment for a child?",
+    "back": "The refusal is constrained by the state's interest in protecting the child. Emergent care may proceed under the emergency doctrine while urgent legal mechanisms are pursued for essential non-emergent treatment."
+  },
+  {
+    "id": 17,
+    "chapter": 2,
+    "front": "What is the best practice for obtaining a pediatric weight in an emergency?",
+    "back": "Obtain an actual measured weight in kilograms whenever possible; a measured weight always supersedes any estimate. Guard relentlessly against the use of pounds, which more than doubles the intended dose."
+  },
+  {
+    "id": 18,
+    "chapter": 2,
+    "front": "What is the common age-based weight formula for children 1 to 10 years old?",
+    "back": "Weight in kilograms equals two times age in years plus eight. These formulas are crude and tend to underestimate in populations with rising childhood obesity."
+  },
+  {
+    "id": 19,
+    "chapter": 2,
+    "front": "How do you read the Broselow-Luten tape on a supine child?",
+    "back": "Lay the tape with the red end at the crown of the head and read the zone at the level of the heel, not the toe, since pointed toes introduce error."
+  },
+  {
+    "id": 20,
+    "chapter": 2,
+    "front": "Rank the weight estimation methods from most to least reliable.",
+    "back": "Current measured weight is best, then a parental estimate, then the length-based tape as the most validated estimate, and age-based formulas are the least reliable fallback."
+  },
+  {
+    "id": 21,
+    "chapter": 2,
+    "front": "What are the main limitations of the Broselow-Luten tape?",
+    "back": "It underestimates weight in children with high BMI because it indexes on length alone, and its accuracy degrades in heavier children above roughly 18 to 26 kilograms."
+  },
+  {
+    "id": 22,
+    "chapter": 2,
+    "front": "What is the cuffed endotracheal tube sizing formula?",
+    "back": "Cuffed internal diameter in millimeters equals (age in years divided by 4) plus 3.5. The older uncuffed formula was (age divided by 4) plus 4."
+  },
+  {
+    "id": 23,
+    "chapter": 2,
+    "front": "How is endotracheal tube insertion depth at the lip estimated?",
+    "back": "Depth at the lip in centimeters is approximately three times the tube internal diameter, so a 4.0 tube sits near 12 centimeters."
+  },
+  {
+    "id": 24,
+    "chapter": 2,
+    "front": "What is the cardiac arrest dose of epinephrine in children?",
+    "back": "Epinephrine 0.01 mg/kg of the 0.1 mg/mL concentration, equal to 0.1 mL/kg, repeated every 3 to 5 minutes, not exceeding the 1 mg adult dose."
+  },
+  {
+    "id": 25,
+    "chapter": 2,
+    "front": "What are the pediatric defibrillation energy doses?",
+    "back": "Begin at 2 J/kg for the first shock, escalate to 4 J/kg for the second, and may rise to 10 J/kg or the adult dose for refractory ventricular fibrillation."
+  },
+  {
+    "id": 26,
+    "chapter": 2,
+    "front": "What is the synchronized cardioversion starting energy in children?",
+    "back": "Synchronized cardioversion starts at 0.5 to 1 J/kg, escalating to 2 J/kg, lower than the energies used for defibrillation."
+  },
+  {
+    "id": 27,
+    "chapter": 2,
+    "front": "What is the fluid bolus volume for hypovolemic or septic shock?",
+    "back": "10 to 20 mL/kg of isotonic crystalloid, given and reassessed rather than poured in blindly, with more cautious volumes in suspected cardiac or neonatal physiology."
+  },
+  {
+    "id": 28,
+    "chapter": 2,
+    "front": "What is the adenosine dose for supraventricular tachycardia?",
+    "back": "Adenosine 0.1 mg/kg for the first dose, doubled to 0.2 mg/kg for the second dose."
+  },
+  {
+    "id": 29,
+    "chapter": 2,
+    "front": "What is the amiodarone dose for shock-refractory VF or pulseless VT?",
+    "back": "Amiodarone 5 mg/kg given for shock-refractory ventricular fibrillation or pulseless ventricular tachycardia."
+  },
+  {
+    "id": 30,
+    "chapter": 2,
+    "front": "Why must epinephrine concentration be named explicitly, not just the drug?",
+    "back": "The resuscitation concentration and the anaphylaxis intramuscular concentration differ tenfold, so an order-of-magnitude error occurs if the wrong concentration vial is chosen even with a correct milligram calculation."
+  },
+  {
+    "id": 31,
+    "chapter": 2,
+    "front": "How is the oropharyngeal airway sized externally?",
+    "back": "Hold it against the face and measure from the incisors to the angle of the mandible. An incorrectly sized one worsens obstruction rather than relieving it."
+  },
+  {
+    "id": 32,
+    "chapter": 2,
+    "front": "What roles should be assigned to embed a weight-based system in team practice?",
+    "back": "One person measures and announces the color or weight, one retrieves equipment by color, and one prepares and double-checks medications, parallelizing the work with cross-checks."
+  },
+  {
+    "id": 33,
+    "chapter": 3,
+    "front": "What is the practical lower threshold for acceptable systolic pressure in children 1 to 10 years?",
+    "back": "70 plus twice the age in years. Hypotension is a late and dangerous sign, so this formula is worth committing to memory."
+  },
+  {
+    "id": 34,
+    "chapter": 3,
+    "front": "Why is tachycardia the early warning sign in pediatric shock?",
+    "back": "A child compensates by raising heart rate and systemic vascular resistance long after a comparable adult would drop pressure, so tachycardia precedes hypotension, which marks decompensated near-terminal shock."
+  },
+  {
+    "id": 35,
+    "chapter": 3,
+    "front": "What three elements make up the pediatric assessment triangle?",
+    "back": "Appearance, work of breathing, and circulation to the skin, formed as a first impression that flags a sick child before a monitor is attached."
+  },
+  {
+    "id": 36,
+    "chapter": 3,
+    "front": "What is a normal capillary refill time and where is it assessed?",
+    "back": "Under two seconds, pressed at a central site. Prolonged refill with cool extremities and weak distal pulses is the clinical face of shock."
+  },
+  {
+    "id": 37,
+    "chapter": 3,
+    "front": "How should a blood pressure cuff be sized in a child?",
+    "back": "The bladder should encircle roughly 80 to 100 percent of the arm with a width about 40 percent of arm circumference. A cuff too small reads falsely high; too large reads falsely low."
+  },
+  {
+    "id": 38,
+    "chapter": 3,
+    "front": "What is the normal end-tidal CO2 value?",
+    "back": "Roughly 35 to 45 mmHg. End-tidal CO2 is measured at the end of exhalation and approximates alveolar and therefore arterial carbon dioxide."
+  },
+  {
+    "id": 39,
+    "chapter": 3,
+    "front": "What capnogram shape indicates bronchospasm?",
+    "back": "An upsloping, shark-fin plateau rather than a flat top, signaling expiratory flow obstruction. Its resolution tracks the response to bronchodilators."
+  },
+  {
+    "id": 40,
+    "chapter": 3,
+    "front": "Why does capnography detect hypoventilation before pulse oximetry?",
+    "back": "End-tidal CO2 changes the instant ventilation falters, whereas oxygen saturation can stay normal for a minute or more after breathing stops, especially with supplemental oxygen."
+  },
+  {
+    "id": 41,
+    "chapter": 3,
+    "front": "What is the immediate sequence when the capnogram waveform is lost during sedation?",
+    "back": "Stimulate the child, reposition the airway with chin lift or jaw thrust, ensure the sampling line is patent and placed, and prepare to support ventilation."
+  },
+  {
+    "id": 42,
+    "chapter": 3,
+    "front": "How does capnography confirm endotracheal tube placement?",
+    "back": "A sustained, normal-appearing capnogram after intubation confirms tracheal positioning. This waveform confirmation is more reliable than auscultation in small chests."
+  },
+  {
+    "id": 43,
+    "chapter": 3,
+    "front": "What does end-tidal CO2 indicate during CPR?",
+    "back": "It reflects cardiac output, since CO2 delivery depends on pulmonary blood flow from compressions. A low value suggests inadequate compressions; a sudden sharp rise heralds return of spontaneous circulation."
+  },
+  {
+    "id": 44,
+    "chapter": 3,
+    "front": "How does pulse oximetry read in carbon monoxide poisoning?",
+    "back": "Carboxyhemoglobin reads as falsely reassuring saturation because the probe cannot distinguish it from oxyhemoglobin; co-oximetry is required."
+  },
+  {
+    "id": 45,
+    "chapter": 3,
+    "front": "How should bradycardia in a young child be treated first?",
+    "back": "Bradycardia is frequently a sign of hypoxia until proven otherwise and is treated first by oxygenation and ventilation rather than reflexively reaching for medication."
+  },
+  {
+    "id": 46,
+    "chapter": 3,
+    "front": "What is the post-arrest blood pressure target in 2025 guidance?",
+    "back": "Maintain systolic blood pressure above the tenth centile for age, since both hypotension and excessive hypertension after arrest worsen outcomes."
+  },
+  {
+    "id": 47,
+    "chapter": 3,
+    "front": "Why should a pulse oximetry probe and BP cuff be on different limbs?",
+    "back": "A probe on the same limb as the cuff loses its signal each time the cuff inflates, so the two should occupy different extremities."
+  },
+  {
+    "id": 48,
+    "chapter": 3,
+    "front": "What does post-arrest temperature management emphasize in current guidance?",
+    "back": "Preventing hyperthermia rather than deep cooling, because elevated temperature increases cerebral metabolic demand at exactly the wrong moment."
+  },
+  {
+    "id": 49,
+    "chapter": 4,
+    "front": "What do infants fear during procedures, and what comforts them?",
+    "back": "Infants fear separation and respond to swaddling, a parent's voice, sucking, and warmth."
+  },
+  {
+    "id": 50,
+    "chapter": 4,
+    "front": "Why is honesty foundational across every developmental stage?",
+    "back": "A child told something will not hurt who then feels pain loses trust that does not return easily, poisoning subsequent encounters."
+  },
+  {
+    "id": 51,
+    "chapter": 4,
+    "front": "What is comfort positioning and why does it help?",
+    "back": "The child sits upright on a parent's lap held in a secure hug rather than lying supine and pinned, reducing helplessness and improving cooperation and first-attempt access success."
+  },
+  {
+    "id": 52,
+    "chapter": 4,
+    "front": "What is the distraction technique and why must it be active?",
+    "back": "Distraction redirects attention from the threatening stimulus. It must be active and matched to the child, since a screen ignored by a frightened toddler accomplishes nothing while bubbles engage them fully."
+  },
+  {
+    "id": 53,
+    "chapter": 4,
+    "front": "How does oral sucrose reduce pain in neonates?",
+    "back": "Two milliliters of a 24 percent solution given a minute or two before a brief painful procedure activates endogenous opioid pathways, enhanced by non-nutritive sucking on a pacifier."
+  },
+  {
+    "id": 54,
+    "chapter": 4,
+    "front": "How long does lidocaine-prilocaine cream take to anesthetize intact skin?",
+    "back": "Roughly 60 minutes under occlusion. Planning ahead by placing it at triage converts a screaming struggle into a calm stick."
+  },
+  {
+    "id": 55,
+    "chapter": 4,
+    "front": "What is LET gel and where is it contraindicated?",
+    "back": "Lidocaine, epinephrine, and tetracaine gel applied to an open wound for 20 to 30 minutes. Because of its epinephrine content it is avoided on end-arterial structures: digits, nose tip, ears, and penis."
+  },
+  {
+    "id": 56,
+    "chapter": 4,
+    "front": "What is the intranasal fentanyl dose for moderate to severe pediatric pain?",
+    "back": "1.5 micrograms per kilogram delivered by atomizer, with onset within minutes, divided between both nostrils, ideal for the fearful child since it needs no needle."
+  },
+  {
+    "id": 57,
+    "chapter": 4,
+    "front": "What are the maximum lidocaine doses for plain versus epinephrine-containing solution?",
+    "back": "Plain lidocaine tolerates roughly 4.5 mg/kg, while the epinephrine-containing form allows about 7 mg/kg."
+  },
+  {
+    "id": 58,
+    "chapter": 4,
+    "front": "What is the ketamine dose for procedural sedation?",
+    "back": "1 to 2 mg/kg intravenously or 4 to 5 mg/kg intramuscularly, providing dissociative sedation and analgesia while largely preserving airway reflexes and respiratory drive."
+  },
+  {
+    "id": 59,
+    "chapter": 4,
+    "front": "What monitoring and staffing are required for procedural sedation?",
+    "back": "Two providers, one performing the procedure and one dedicated to monitoring, with continuous capnography supplementing pulse oximetry because it detects hypoventilation before desaturation."
+  },
+  {
+    "id": 60,
+    "chapter": 4,
+    "front": "What is the difference between immobilization and restraint?",
+    "back": "Immobilization is supportive, time-limited holding of a body part with comfort. Restraint is involuntary restriction of movement against the patient's will, a regulated intervention of last resort."
+  },
+  {
+    "id": 61,
+    "chapter": 4,
+    "front": "What must a mummy wrap or papoose board never compromise?",
+    "back": "It must never compromise the airway or chest excursion or compress the abdomen, and the child must be monitored continuously and released the instant the procedure ends."
+  },
+  {
+    "id": 62,
+    "chapter": 4,
+    "front": "How can language reduce a young child's fear during a procedure?",
+    "back": "Use truthful sensation-based framing: a tourniquet becomes a hug for the arm, antiseptic a wind, a sting a quick pinch, while avoiding literal traps like a needle being a 'stick'."
+  },
+  {
+    "id": 63,
+    "chapter": 4,
+    "front": "What discharge criteria must a sedated child meet?",
+    "back": "Return to baseline mental status, a patent airway, stable vital signs, tolerating fluids, and the ability to sit or ambulate at baseline."
+  },
+  {
+    "id": 64,
+    "chapter": 4,
+    "front": "What documentation is required when restraint is used?",
+    "back": "Document why less restrictive measures were insufficient, what was applied, how long it lasted, and how the child was monitored and released, demonstrating the last-resort standard was met."
+  },
+  {
+    "id": 65,
+    "chapter": 5,
+    "front": "Why do infants desaturate within seconds rather than minutes?",
+    "back": "Oxygen consumption per kilogram is roughly two to three times that of an adult while functional residual capacity is proportionally smaller."
+  },
+  {
+    "id": 66,
+    "chapter": 5,
+    "front": "How do you distinguish respiratory distress from respiratory failure?",
+    "back": "Distress is compensated with increased work of breathing maintaining gas exchange. Failure is decompensated, signaled by falling respiratory rate, diminishing breath sounds, altered mental status, cyanosis, and bradycardia."
+  },
+  {
+    "id": 67,
+    "chapter": 5,
+    "front": "What SpO2 range should be targeted in a stabilized child?",
+    "back": "94 to 99 percent. Avoid routine hyperoxia and targeting 100 percent, because sustained hyperoxia generates reactive oxygen species and worsens outcomes."
+  },
+  {
+    "id": 68,
+    "chapter": 5,
+    "front": "Why might a child with single-ventricle physiology have a baseline SpO2 of 75 to 85 percent?",
+    "back": "Cyanotic congenital heart disease produces this baseline; driving such a child to 100 percent can flood the pulmonary circulation and compromise systemic perfusion. Seek the known baseline first."
+  },
+  {
+    "id": 69,
+    "chapter": 5,
+    "front": "What FiO2 does a non-rebreather mask deliver and at what flow?",
+    "back": "An FiO2 approaching 0.60 to 0.95 at 10 to 15 liters per minute, with the reservoir bag kept inflated and never fully collapsing on inspiration."
+  },
+  {
+    "id": 70,
+    "chapter": 5,
+    "front": "What is the weight-based starting flow for high-flow nasal cannula?",
+    "back": "1.5 to 2 liters per kilogram per minute for infants up to about 10 kilograms, adding roughly 0.5 L/kg/min for each kilogram above that, capped by device limits."
+  },
+  {
+    "id": 71,
+    "chapter": 5,
+    "front": "When should you reassess for high-flow nasal cannula failure?",
+    "back": "Within 60 to 90 minutes. Failure to improve respiratory rate, retractions, and saturation in this window predicts the need for escalation to noninvasive positive pressure or intubation."
+  },
+  {
+    "id": 72,
+    "chapter": 5,
+    "front": "How do you restore neutral airway alignment in a supine infant?",
+    "back": "Place a small towel roll under the shoulders, not the head, because the large occiput already flexes the neck when the infant lies supine. Avoid hyperextension."
+  },
+  {
+    "id": 73,
+    "chapter": 5,
+    "front": "What positioning maneuver is used when cervical spine injury is a concern?",
+    "back": "The jaw thrust without head tilt: place fingers at the angles of the mandible and displace it anteriorly while a second provider maintains in-line stabilization."
+  },
+  {
+    "id": 74,
+    "chapter": 5,
+    "front": "What is the indication and contraindication for an oropharyngeal airway?",
+    "back": "Indicated only in the unconscious child without a gag reflex. Contraindicated in a patient with intact reflexes, where it provokes gagging, vomiting, and laryngospasm."
+  },
+  {
+    "id": 75,
+    "chapter": 5,
+    "front": "How is an oropharyngeal airway inserted in a child?",
+    "back": "Depress the tongue with a tongue blade and insert it directly in its anatomic orientation following the curve of the tongue, not rotated 180 degrees as in adults, because the pediatric palate is soft."
+  },
+  {
+    "id": 76,
+    "chapter": 5,
+    "front": "How is a nasopharyngeal airway sized for length, and what are its contraindications?",
+    "back": "Measure from the nose tip to the tragus of the ear. Contraindicated in suspected basilar skull fracture, midface trauma, raccoon eyes, or CSF rhinorrhea."
+  },
+  {
+    "id": 77,
+    "chapter": 5,
+    "front": "What is the maximum duration of a single suction pass and why?",
+    "back": "Under 10 seconds, to avoid hypoxia and vagally mediated bradycardia. Preoxygenate before suctioning and withdraw immediately if bradycardia appears."
+  },
+  {
+    "id": 78,
+    "chapter": 5,
+    "front": "Why is a calm child on blow-by oxygen sometimes better than a mask?",
+    "back": "Coercing a toddler into a tight mask causes a struggle that raises oxygen consumption and carbon dioxide production faster than the device can compensate."
+  },
+  {
+    "id": 79,
+    "chapter": 5,
+    "front": "What is the approximate FiO2 increase per liter of nasal cannula flow?",
+    "back": "Each liter per minute adds roughly 3 to 4 percent above room air, so 2 L/min yields an approximate FiO2 of 0.28 to 0.30, varying with minute ventilation and mouth breathing."
+  },
+  {
+    "id": 80,
+    "chapter": 5,
+    "front": "What is the most common cause of upper airway obstruction in a child with depressed consciousness?",
+    "back": "Posterior displacement of the tongue and soft tissues against the pharyngeal wall, relieved in a large fraction of children by correct positioning alone."
+  },
+  {
+    "id": 81,
+    "chapter": 6,
+    "front": "Why is bag-valve-mask ventilation called the foundational airway skill?",
+    "back": "It brackets every intubation attempt and determines survival, with large studies showing no survival advantage for prehospital intubation over BVM alone in pediatric arrest."
+  },
+  {
+    "id": 82,
+    "chapter": 6,
+    "front": "How should a bag-valve mask be sized for the face?",
+    "back": "It should span from the bridge of the nose to the cleft of the chin, covering nose and mouth without overhanging the eyes or extending past the chin."
+  },
+  {
+    "id": 83,
+    "chapter": 6,
+    "front": "Why must a self-inflating bag have an oxygen reservoir?",
+    "back": "Without the reservoir the delivered oxygen concentration is only 0.30 to 0.60 even at high flow; the reservoir is needed to deliver a high FiO2."
+  },
+  {
+    "id": 84,
+    "chapter": 6,
+    "front": "What is the E-C clamp technique and its cardinal error?",
+    "back": "Thumb and index finger form a C pressing the mask while the third through fifth fingers form an E lifting the bony mandible. The cardinal error is letting the fingers slip onto soft submental tissue, obstructing the airway."
+  },
+  {
+    "id": 85,
+    "chapter": 6,
+    "front": "Why is the two-hand, two-person BVM technique preferred?",
+    "back": "One operator uses both hands for a better seal and jaw thrust while the second squeezes the bag, solving the most common failure of inadequate seal combined with inadequate jaw thrust."
+  },
+  {
+    "id": 86,
+    "chapter": 6,
+    "front": "What is the 2025 PALS ventilation rate for a child with a pulse but inadequate breathing?",
+    "back": "One breath every 2 to 3 seconds, roughly 20 to 30 breaths per minute, with the faster end favored for infants."
+  },
+  {
+    "id": 87,
+    "chapter": 6,
+    "front": "What are the single-rescuer and two-rescuer compression-to-ventilation ratios before an advanced airway?",
+    "back": "30-to-2 with a single rescuer and 15-to-2 with two rescuers."
+  },
+  {
+    "id": 88,
+    "chapter": 6,
+    "front": "Why is over-ventilation dangerous during pediatric resuscitation?",
+    "back": "Excessive volume forces gas into the stomach, splinting the diaphragm and promoting aspiration; excessive rate raises intrathoracic pressure, reduces venous return, and lowers cardiac output."
+  },
+  {
+    "id": 89,
+    "chapter": 6,
+    "front": "What does the MR SOPA mnemonic stand for in correcting inadequate chest rise?",
+    "back": "Mask reseat, Reposition airway, Suction, Open the mouth and insert an oral airway, Pressure increase, and Airway alternative such as a supraglottic device or tube."
+  },
+  {
+    "id": 90,
+    "chapter": 6,
+    "front": "What are the weight-based sizes for the laryngeal mask airway?",
+    "back": "Size 1 under 5 kg, 1.5 for 5 to 10 kg, 2 for 10 to 20 kg, 2.5 for 20 to 30 kg, and 3 for 30 to 50 kg, with larger sizes into adolescence."
+  },
+  {
+    "id": 91,
+    "chapter": 6,
+    "front": "In what three situations is a laryngeal mask airway invaluable?",
+    "back": "As a primary airway when BVM is difficult, as a rescue device in the cannot-intubate scenario, and as a conduit to guide an endotracheal tube."
+  },
+  {
+    "id": 92,
+    "chapter": 6,
+    "front": "What pediatric pitfall causes an LMA at correct depth to ventilate poorly?",
+    "back": "The floppy pediatric epiglottis can be folded downward over the laryngeal inlet by the advancing cuff. Maintaining firm palate contact and lifting the jaw reduces this risk."
+  },
+  {
+    "id": 93,
+    "chapter": 6,
+    "front": "What are the key limitations of supraglottic airways?",
+    "back": "They do not reliably protect against aspiration, seal poorly when high airway pressures are required as in severe asthma, and can be dislodged by movement during transport."
+  },
+  {
+    "id": 94,
+    "chapter": 6,
+    "front": "Why is the seal, not the squeeze, usually the limiting factor in BVM?",
+    "back": "The reflex to squeeze harder when a breath fails is the wrong instinct; it usually worsens both leak and gastric insufflation. The seal and jaw thrust should be corrected instead."
+  },
+  {
+    "id": 95,
+    "chapter": 6,
+    "front": "What should be done after any successful rescue ventilation to relieve insufflation?",
+    "back": "Decompress the stomach with an orogastric or nasogastric tube and confirm ongoing ventilation with continuous waveform capnography."
+  },
+  {
+    "id": 96,
+    "chapter": 6,
+    "front": "What is the next step if a well-seated LMA still fails after one reseating attempt?",
+    "back": "Do not persist; return to two-person bag-valve-mask ventilation and move down the failed-airway pathway."
+  },
+  {
+    "id": 97,
+    "chapter": 7,
+    "front": "What is rapid sequence intubation?",
+    "back": "The near-simultaneous administration of a potent sedative and a rapid-onset neuromuscular blocker to produce optimal intubating conditions while minimizing the vulnerable apneic interval."
+  },
+  {
+    "id": 98,
+    "chapter": 7,
+    "front": "What does the SOAP-ME pre-intubation checklist stand for?",
+    "back": "Suction, Oxygen and apneic oxygenation, Airways and devices, Pharmacology drawn up and weight-dosed, Monitoring, and Equipment for the difficult and failed airway."
+  },
+  {
+    "id": 99,
+    "chapter": 7,
+    "front": "What is apneic oxygenation during RSI?",
+    "back": "Continuation of oxygen delivery during the apneic attempt by leaving a nasal cannula at 1 to 4 L/min in infants throughout laryngoscopy, which prolongs the time to critical desaturation."
+  },
+  {
+    "id": 100,
+    "chapter": 7,
+    "front": "What is the induction agent of choice in shock or status asthmaticus?",
+    "back": "Ketamine 1 to 2 mg/kg IV, which preserves respiratory drive and airway reflexes, supports blood pressure, and provides bronchodilation."
+  },
+  {
+    "id": 101,
+    "chapter": 7,
+    "front": "What is the etomidate induction dose and its main caveat?",
+    "back": "0.3 mg/kg, hemodynamically neutral and useful in head injury, with transient adrenal suppression that argues against repeated dosing, particularly in the septic child."
+  },
+  {
+    "id": 102,
+    "chapter": 7,
+    "front": "What is the rocuronium dose and why is it often preferred for routine pediatric RSI?",
+    "back": "1 to 1.2 mg/kg IV, producing conditions in 45 to 60 seconds. It is preferred because some children have undiagnosed myopathies that make succinylcholine dangerous, and sugammadex reverses it."
+  },
+  {
+    "id": 103,
+    "chapter": 7,
+    "front": "What is the succinylcholine dose and its key contraindications?",
+    "back": "1.5 to 2 mg/kg IV or 4 mg/kg IM. Contraindicated in hyperkalemia, burns or crush injury beyond the first day, denervation injury, and known or suspected myopathy."
+  },
+  {
+    "id": 104,
+    "chapter": 7,
+    "front": "What is the current standard endotracheal tube type and sizing formula?",
+    "back": "The cuffed tube is standard outside the neonatal period, with internal diameter equal to (age in years divided by 4) plus 3.5."
+  },
+  {
+    "id": 105,
+    "chapter": 7,
+    "front": "To what cuff pressure should a pediatric endotracheal tube cuff be inflated?",
+    "back": "Only enough to seal at a measured cuff pressure below 20 to 25 centimeters of water, to prevent mucosal ischemia and subglottic stenosis."
+  },
+  {
+    "id": 106,
+    "chapter": 7,
+    "front": "Why is a straight Miller blade preferred in infants?",
+    "back": "It directly lifts the floppy, anteriorly angled epiglottis, using a Miller 0 for premature, Miller 0 to 1 for term neonates and infants, with larger sizes thereafter."
+  },
+  {
+    "id": 107,
+    "chapter": 7,
+    "front": "Why is video laryngoscopy recommended first-line in pediatric intubation?",
+    "back": "It improves glottic visualization and first-pass success and lets the whole team see the same view for shared awareness and teaching."
+  },
+  {
+    "id": 108,
+    "chapter": 7,
+    "front": "What is the quality metric that matters most in pediatric intubation?",
+    "back": "First-pass success without hypoxia, because each additional attempt raises the risk of desaturation, bradycardia, trauma, edema, and arrest."
+  },
+  {
+    "id": 109,
+    "chapter": 7,
+    "front": "What should you change between failed intubation attempts?",
+    "back": "At least one variable: the operator, blade, device, head position, external laryngeal manipulation, or adding a bougie. Repeating an identical attempt just repeats the failure."
+  },
+  {
+    "id": 110,
+    "chapter": 7,
+    "front": "What is the gold standard for confirming tracheal tube placement in a perfusing patient?",
+    "back": "Waveform capnography showing a sustained, square end-tidal CO2 tracing over several breaths, supplemented by bilateral breath sounds, absent epigastric sounds, and chest rise."
+  },
+  {
+    "id": 111,
+    "chapter": 7,
+    "front": "What does the DOPE mnemonic address after intubation deterioration?",
+    "back": "Displacement of the tube, Obstruction by secretions or kinking, Pneumothorax, and Equipment failure. Displacement is most common and is excluded first."
+  },
+  {
+    "id": 112,
+    "chapter": 7,
+    "front": "Why must sedation and analgesia follow promptly after paralysis?",
+    "back": "A paralyzed patient allowed to wake without sedation experiences the terror of awareness while unable to move, since the long-acting paralytic outlasts a single dose of many induction agents."
+  },
+  {
+    "id": 113,
+    "chapter": 8,
+    "front": "What single question does the difficult airway management algorithm pivot on?",
+    "back": "Can the child be oxygenated by any means? A difficult but oxygenating airway permits deliberate problem-solving, while a cannot-intubate cannot-oxygenate situation is a crisis measured in seconds."
+  },
+  {
+    "id": 114,
+    "chapter": 8,
+    "front": "What is the single strongest predictor of a difficult pediatric airway?",
+    "back": "A history of prior difficult intubation."
+  },
+  {
+    "id": 115,
+    "chapter": 8,
+    "front": "How should a child with stridor, drooling, and tripod posture be managed?",
+    "back": "Keep them calm in their position of comfort and manage in a controlled setting, ideally the operating room with surgical backup, rather than urgent paralytic-based RSI that may precipitate complete obstruction."
+  },
+  {
+    "id": 116,
+    "chapter": 8,
+    "front": "When is the bougie the most valuable rescue adjunct?",
+    "back": "When the glottic view is partial, showing only the posterior cartilages or inferior arytenoids. It is passed under the epiglottis into the trachea."
+  },
+  {
+    "id": 117,
+    "chapter": 8,
+    "front": "How is tracheal placement of a bougie confirmed?",
+    "back": "By palpable tracheal clicks as the tip bumps over the cartilaginous rings and by hold-up when it meets distal resistance, neither of which occurs in the esophagus."
+  },
+  {
+    "id": 118,
+    "chapter": 8,
+    "front": "What maneuver helps a tube pass the arytenoids when railroading over a bougie?",
+    "back": "Rotating the tube 90 degrees counterclockwise, while keeping the laryngoscope blade in place to retract soft tissue."
+  },
+  {
+    "id": 119,
+    "chapter": 8,
+    "front": "What is the advantage of the awake or spontaneously breathing intubation approach?",
+    "back": "If the attempt fails, the child continues to breathe and oxygenate, so there is no enforced apnea to drive a crisis. It is planned in advance for the anticipated difficult airway."
+  },
+  {
+    "id": 120,
+    "chapter": 8,
+    "front": "After how many attempts should the airway be declared failed?",
+    "back": "Generally no more than three attempts, and fewer if each causes desaturation. The governing rule is oxygenate, do not intubate."
+  },
+  {
+    "id": 121,
+    "chapter": 8,
+    "front": "What is the most dangerous cognitive error in the failed airway?",
+    "back": "Cognitive fixation, the tendency to keep trying the failing technique because the next attempt feels like it will succeed. The structured algorithm exists to interrupt it."
+  },
+  {
+    "id": 122,
+    "chapter": 8,
+    "front": "What reverses rocuronium when waking a child is the safest path?",
+    "back": "Sugammadex, which provides rapid reversal and should be available wherever rocuronium is used for RSI. No such option exists for succinylcholine."
+  },
+  {
+    "id": 123,
+    "chapter": 8,
+    "front": "Which front-of-neck technique is used in children under roughly 8 to 10 years?",
+    "back": "Needle cricothyroidotomy with a large-bore over-the-needle cannula, because the cricothyroid membrane is tiny and the larynx soft; formal surgical cricothyroidotomy is not recommended."
+  },
+  {
+    "id": 124,
+    "chapter": 8,
+    "front": "What is the scalpel-bougie-tube technique for older children?",
+    "back": "Vertical skin incision over the cricothyroid membrane, transverse stab through the membrane, insertion of a bougie caudally, then railroading a small cuffed tube of 5.0 to 6.0 over the bougie."
+  },
+  {
+    "id": 125,
+    "chapter": 8,
+    "front": "What is the major hazard of jet ventilation through a narrow transtracheal cannula?",
+    "back": "Without an unobstructed expiratory route, it can rapidly cause fatal hyperinflation and pneumothorax, so a long expiratory pause is allowed and the chest watched to deflate."
+  },
+  {
+    "id": 126,
+    "chapter": 8,
+    "front": "Why should a supraglottic airway be placed without hesitation once intubation fails?",
+    "back": "It frequently restores oxygenation and buys time to regroup, rather than persisting to a fourth or fifth laryngoscopy that consumes the child's reserve."
+  },
+  {
+    "id": 127,
+    "chapter": 8,
+    "front": "What is the role of a shared mental model before a difficult airway induction?",
+    "back": "The team verbalizes plan A, plan B, and plan C, naming the primary plan and rescues, so that escalation requires no deliberation when saturation falls."
+  },
+  {
+    "id": 128,
+    "chapter": 8,
+    "front": "How should a child's difficult-airway status be communicated after the event?",
+    "back": "Document a difficult-airway alert in the record and send a letter to the family and primary physician, so the next clinician inherits the knowledge rather than rediscovering the danger."
+  },
+  {
+    "id": 129,
+    "chapter": 9,
+    "front": "What is the cannot-intubate, cannot-oxygenate (CICO) scenario?",
+    "back": "A child who cannot be ventilated by bag-mask, supraglottic device, or endotracheal tube, with oxygen saturation falling toward catastrophe, requiring a surgical airway."
+  },
+  {
+    "id": 130,
+    "chapter": 9,
+    "front": "What is the leading cause of death in CICO?",
+    "back": "Indecision, not the procedure itself. The senior clinician should narrate the progression and declare the emergency aloud to shorten the interval to decisive action."
+  },
+  {
+    "id": 131,
+    "chapter": 9,
+    "front": "Why is cutting cricothyrotomy contraindicated in children under roughly 5 years?",
+    "back": "The cricothyroid membrane is proportionally tiny, measuring only about 2.6 mm vertically in an infant, too small to control a scalpel incision; needle cricothyrotomy is used instead."
+  },
+  {
+    "id": 132,
+    "chapter": 9,
+    "front": "What catheter gauge is used for needle cricothyrotomy in infants versus older children?",
+    "back": "A 16- or 18-gauge over-the-needle catheter for infants and small children, and a 14-gauge for older children."
+  },
+  {
+    "id": 133,
+    "chapter": 9,
+    "front": "At what angle and direction is the cricothyroid membrane punctured?",
+    "back": "In the midline at a 30 to 45 degree caudad angle, directing the needle toward the feet to follow the tracheal axis and avoid the posterior wall, advancing while aspirating."
+  },
+  {
+    "id": 134,
+    "chapter": 9,
+    "front": "What is the critical limitation of needle cricothyrotomy?",
+    "back": "It provides oxygenation but not adequate ventilation, so carbon dioxide accumulates. Exhalation must occur passively through the upper airway, requiring at least a partially patent glottis."
+  },
+  {
+    "id": 135,
+    "chapter": 9,
+    "front": "What happens if jet ventilation is delivered through a completely obstructed upper airway?",
+    "back": "Breath stacking, dramatic rising intrathoracic pressure, barotrauma, and tension pneumothorax within a minute."
+  },
+  {
+    "id": 136,
+    "chapter": 9,
+    "front": "What is the laryngeal handshake?",
+    "back": "Standing at the patient's side, grasp the larynx between thumb and middle finger and use the index finger to walk down the midline to identify the cricothyroid membrane below the thyroid cartilage."
+  },
+  {
+    "id": 137,
+    "chapter": 9,
+    "front": "What is the single most reliable confirmation of a percutaneous cricothyrotomy?",
+    "back": "Capnography, supplemented by bilateral breath sounds and chest rise."
+  },
+  {
+    "id": 138,
+    "chapter": 9,
+    "front": "Why must the larynx be stabilized throughout a surgical airway procedure?",
+    "back": "A mobile pediatric larynx slides and the puncture is lost; the nondominant hand stabilizes it and never releases it."
+  },
+  {
+    "id": 139,
+    "chapter": 9,
+    "front": "What equipment fits most adolescents for open surgical cricothyrotomy?",
+    "back": "A scalpel with a number 10 or 11 blade, a tracheal hook, a Trousseau dilator or bougie, and a 6.0 cuffed endotracheal tube or a size 4 cuffed tracheostomy tube."
+  },
+  {
+    "id": 140,
+    "chapter": 9,
+    "front": "Why is a vertical skin incision used in open cricothyrotomy?",
+    "back": "It avoids the anterior jugular veins and allows extension, before a horizontal stab is made through the cricothyroid membrane."
+  },
+  {
+    "id": 141,
+    "chapter": 9,
+    "front": "What low-flow oxygen strategy buys time when no jet source is available?",
+    "back": "Connect the catheter to a flowmeter set roughly to the child's age in years in L/min (capped near 15), occluding a side hole intermittently to drive oxygen in and releasing it for passive exhalation."
+  },
+  {
+    "id": 142,
+    "chapter": 9,
+    "front": "What causes posterior wall perforation with esophageal injury during cricothyrotomy?",
+    "back": "Too steep or too deep a thrust. The caudad angle and controlled depth prevent it."
+  },
+  {
+    "id": 143,
+    "chapter": 9,
+    "front": "Why is every emergency surgical airway converted to a definitive airway promptly?",
+    "back": "It is a temporizing bridge; prompt conversion oxygenates the child fully and prevents subglottic stenosis, and needle cricothyrotomy in particular buys only minutes."
+  },
+  {
+    "id": 144,
+    "chapter": 9,
+    "front": "What does the tactile feel of a bougie advancing in the scalpel-bougie-tube variant confirm?",
+    "back": "Distal angle clicks over the tracheal rings confirm intraluminal placement, with a soft hold-up at the carina rather than passing endlessly, which would indicate a false tissue plane."
+  },
+  {
+    "id": 145,
+    "chapter": 10,
+    "front": "What are the two lethal tracheostomy emergencies?",
+    "back": "Tube obstruction and tube dislodgement, both presenting as acute respiratory distress in a child whose airway anatomy has been surgically altered."
+  },
+  {
+    "id": 146,
+    "chapter": 10,
+    "front": "How long does a pediatric tracheostomy tract take to mature, and why does this matter?",
+    "back": "Roughly 7 days. Before maturation the stoma is a potential space that closes and falls apart if the tube comes out, making early dislodgement a true emergency."
+  },
+  {
+    "id": 147,
+    "chapter": 10,
+    "front": "What is the single most important first question in a tracheostomy emergency?",
+    "back": "Whether the child has a patent native upper airway, because it determines whether the child can be oxygenated from the face or only through the stoma."
+  },
+  {
+    "id": 148,
+    "chapter": 10,
+    "front": "What is the structured first step in the tracheostomy emergency algorithm?",
+    "back": "Call for help and apply high-flow oxygen to both the face and the stoma, since you do not yet know which route works."
+  },
+  {
+    "id": 149,
+    "chapter": 10,
+    "front": "What suction catheter size is used for a tracheostomy tube?",
+    "back": "Roughly twice the tube's inner diameter in French units, so a 4.0 mm tube takes about an 8 French catheter, inserted only to the tube's length to avoid carinal trauma."
+  },
+  {
+    "id": 150,
+    "chapter": 10,
+    "front": "What do you do when a suction catheter will not pass the tracheostomy tube?",
+    "back": "The tube is obstructed or displaced and must be removed; an obstructed or displaced tube provides no airway and may itself be the obstruction."
+  },
+  {
+    "id": 151,
+    "chapter": 10,
+    "front": "Why must a tracheostomy tube never be inserted without its obturator?",
+    "back": "The obturator provides a smooth, blunt leading tip; without it the open end gouges tissue and creates a false passage. It is removed immediately after insertion because the child cannot breathe through it."
+  },
+  {
+    "id": 152,
+    "chapter": 10,
+    "front": "What is the correct arc of tracheostomy tube insertion?",
+    "back": "A posterior-then-caudad arc following the curve of the tube, aiming the tip toward the back of the neck then rotating downward toward the feet, mirroring the surgical path."
+  },
+  {
+    "id": 153,
+    "chapter": 10,
+    "front": "How do you ventilate a child from the face after tracheostomy tube removal?",
+    "back": "Apply a bag-mask to the face and occlude the stoma with a gloved finger or gauze to prevent the breath escaping through the neck, if the upper airway is patent."
+  },
+  {
+    "id": 154,
+    "chapter": 10,
+    "front": "What do you try when the same-size tracheostomy tube will not pass?",
+    "back": "Try the half-size-smaller spare; if that fails, pass a suction catheter or small bougie as a guide and railroad the smaller tube over it."
+  },
+  {
+    "id": 155,
+    "chapter": 10,
+    "front": "How does stomal intubation rescue a failed recannulation?",
+    "back": "Pass a small cuffed endotracheal tube, typically one to two sizes smaller than the tracheostomy tube, directly through the stoma, advancing only a few centimeters and confirming with capnography."
+  },
+  {
+    "id": 156,
+    "chapter": 10,
+    "front": "Why is blind reinsertion dangerous in a tracheostomy under 7 days old?",
+    "back": "The immature tract has no mature path, so blind reinsertion risks creating a false passage into the mediastinum, which can be rapidly fatal. Recannulate over a guide or intubate orally."
+  },
+  {
+    "id": 157,
+    "chapter": 10,
+    "front": "What does pulsatile or massive tracheostomy bleeding suggest?",
+    "back": "A tracheo-innominate artery fistula, typically 3 days to several weeks after placement, sometimes heralded by a sentinel bleed."
+  },
+  {
+    "id": 158,
+    "chapter": 10,
+    "front": "How is a tracheo-innominate fistula managed emergently?",
+    "back": "Hyperinflate the tube cuff to tamponade, or place a finger through the stoma applying anterior pressure against the sternum, while rushing to the operating room for vascular repair."
+  },
+  {
+    "id": 159,
+    "chapter": 10,
+    "front": "What should every tracheostomy child travel with?",
+    "back": "Two spare tubes, one same-size and one half-size smaller, plus an obturator, ties, suction equipment, and a written emergency plan."
+  },
+  {
+    "id": 160,
+    "chapter": 10,
+    "front": "What is the most objective bedside discriminator of a tracheostomy emergency?",
+    "back": "Capnography. A sudden loss of the CO2 waveform in a previously ventilating child signals gas is no longer reaching the lungs through the tube."
+  },
+  {
+    "id": 161,
+    "chapter": 11,
+    "front": "What are the preferred peripheral IV sites in infants?",
+    "back": "The dorsum of the hand and foot, and the saphenous vein anterior to the medial malleolus, which has a constant position making it a blind-stick landmark."
+  },
+  {
+    "id": 162,
+    "chapter": 11,
+    "front": "What catheter gauges are used by pediatric age?",
+    "back": "24-gauge for neonates and small infants, 22-gauge for most infants and toddlers, 22 or 20 for older children, and 20 or 18 for adolescents or rapid volume."
+  },
+  {
+    "id": 163,
+    "chapter": 11,
+    "front": "At what angle is a pediatric IV catheter inserted, and why?",
+    "back": "A shallow 10 to 20 degree angle, lower than in adults, because pediatric veins are superficial."
+  },
+  {
+    "id": 164,
+    "chapter": 11,
+    "front": "Why must the whole catheter unit advance 1 to 2 mm after flashback before threading?",
+    "back": "Flashback occurs when only the needle tip, which protrudes beyond the catheter, enters the vein. The advance seats the catheter tip in the lumen before the stylet is withdrawn."
+  },
+  {
+    "id": 165,
+    "chapter": 11,
+    "front": "Which vein visualization adjunct shows a vein's depth?",
+    "back": "Ultrasound is the only adjunct that displays a vein's depth, diameter, and surrounding artery and nerve, making it most powerful for the difficult-access child."
+  },
+  {
+    "id": 166,
+    "chapter": 11,
+    "front": "Why is gentle aspiration critical when drawing blood through a small catheter?",
+    "back": "Pulling hard collapses the thin vein wall against the catheter tip, stopping return and shearing red cells, causing hemolysis that falsely elevates potassium and ruins the sample."
+  },
+  {
+    "id": 167,
+    "chapter": 11,
+    "front": "From where is a capillary heel stick taken in an infant?",
+    "back": "The lateral or medial plantar heel, warmed first, avoiding the calcaneus. It suffices for glucose, blood gas, and newborn screening but not blood cultures or coagulation studies."
+  },
+  {
+    "id": 168,
+    "chapter": 11,
+    "front": "What are the signs of IV infiltration?",
+    "back": "Swelling, coolness, blanching, and pain, with a firm blow on flushing. Stop the infusion, remove the catheter, and elevate the limb."
+  },
+  {
+    "id": 169,
+    "chapter": 11,
+    "front": "Why should peripheral lines not carry vesicants like calcium or vasopressors?",
+    "back": "Vesicant extravasation demands urgent management including drug aspiration and sometimes a specific antidote, so these agents are better suited to central access."
+  },
+  {
+    "id": 170,
+    "chapter": 11,
+    "front": "What time limit triggers escalation to intraosseous access in a critically ill child?",
+    "back": "If a peripheral IV is not obtained within roughly 90 seconds or two attempts in a child in shock or cardiac arrest, proceed immediately to intraosseous insertion."
+  },
+  {
+    "id": 171,
+    "chapter": 11,
+    "front": "What is the kindest way to obtain a blood sample in a child needing an IV?",
+    "back": "Piggyback phlebotomy on the IV start: after flashback and before connecting fluids, attach a syringe to the catheter hub and aspirate slowly, avoiding a second needlestick."
+  },
+  {
+    "id": 172,
+    "chapter": 11,
+    "front": "How is a mobile pediatric vein stabilized during cannulation?",
+    "back": "Anchor it by applying skin traction distal to the puncture with the nondominant thumb, because a mobile pediatric vein rolls if not stabilized."
+  },
+  {
+    "id": 173,
+    "chapter": 11,
+    "front": "How does a tourniquet substitute work in infants?",
+    "back": "A rubber band or an assistant's encircling fingers serves as a tourniquet, applied tight enough to occlude venous return but not arterial inflow."
+  },
+  {
+    "id": 174,
+    "chapter": 11,
+    "front": "Why must the transparent IV dressing leave the insertion site visible?",
+    "back": "Infiltration in a child is often silent until the dressing is opened, so the site must remain uncovered for inspection of swelling, coolness, or pallor."
+  },
+  {
+    "id": 175,
+    "chapter": 11,
+    "front": "Why warm a limb before attempting venous access?",
+    "back": "Warming with a warm pack for several minutes dilates veins and raises first-attempt success, a simple underused adjunct regardless of visualization tool."
+  },
+  {
+    "id": 176,
+    "chapter": 11,
+    "front": "How many attempts by one clinician typically triggers escalation in a non-critical child?",
+    "back": "A fixed rule of escalating after two failed attempts by one clinician is widely used, protecting both veins and the child's future cooperation."
+  },
+  {
+    "id": 177,
+    "chapter": 12,
+    "front": "Why does intraosseous access work like an always-open vein?",
+    "back": "The marrow cavity is a non-collapsible network of venous sinusoids that empties into the central circulation, so a needle in the marrow behaves like a rigid, always-open peripheral vein."
+  },
+  {
+    "id": 178,
+    "chapter": 12,
+    "front": "When is intraosseous access first-line in 2025 guidance?",
+    "back": "When intravenous access is not immediately available in cardiac arrest or decompensated shock; every IV drug, fluid, and blood product can be given by IO at the same dose."
+  },
+  {
+    "id": 179,
+    "chapter": 12,
+    "front": "What are the absolute contraindications to intraosseous access?",
+    "back": "Fracture of the target bone, a prior IO attempt in the same bone within 24 to 48 hours, and a vascular interruption proximal to the site. Simply select another site."
+  },
+  {
+    "id": 180,
+    "chapter": 12,
+    "front": "Where is the proximal tibia intraosseous landmark in young children?",
+    "back": "1 to 2 cm below the tibial tuberosity on the flat anteromedial surface, medial to the tuberosity, angling the needle slightly away from the joint to avoid the growth plate."
+  },
+  {
+    "id": 181,
+    "chapter": 12,
+    "front": "What confirms a powered-driver IO needle is long enough?",
+    "back": "Once the tip touches bone, at least one black depth marking must remain visible outside the skin. Too short a needle never reaches the marrow cavity."
+  },
+  {
+    "id": 182,
+    "chapter": 12,
+    "front": "What is the most reliable confirmation of intraosseous placement?",
+    "back": "A 5 to 10 mL saline flush that runs in without soft-tissue swelling. The flush test, not aspiration, is decisive, since a good IO sometimes yields no aspirate."
+  },
+  {
+    "id": 183,
+    "chapter": 12,
+    "front": "What is the most frequent technical error during IO insertion?",
+    "back": "Overshoot, in which excessive pressure drives the needle through the near cortex across the marrow into the far cortex. Let the driver's motor cut and release pressure when the give is felt."
+  },
+  {
+    "id": 184,
+    "chapter": 12,
+    "front": "How is the pain of IO infusion in a conscious patient reduced?",
+    "back": "A slow push of preservative-free lidocaine before flushing, a typical pediatric dose around 0.5 mg/kg over a couple of minutes, observing maximum local-anesthetic limits."
+  },
+  {
+    "id": 185,
+    "chapter": 12,
+    "front": "How long should an intraosseous line ideally dwell?",
+    "back": "It is a temporary bridge of hours, removed once reliable vascular access is established, ideally within 24 hours, to limit infection and osteomyelitis risk."
+  },
+  {
+    "id": 186,
+    "chapter": 12,
+    "front": "What is the most common intraosseous complication, and how is it prevented?",
+    "back": "Extravasation from a needle through the cortex, dislodged, or in a previously punctured bone, which can cause compartment syndrome. Prevented by the flush test, secure fixation, and never reusing a recently punctured bone."
+  },
+  {
+    "id": 187,
+    "chapter": 12,
+    "front": "How are intranasal drugs best delivered?",
+    "back": "Via an atomizer to create a fine mist, splitting the dose between both nostrils with small volume per nostril, so the drug coats the vascular nasal mucosa rather than being swallowed."
+  },
+  {
+    "id": 188,
+    "chapter": 12,
+    "front": "What is the intranasal midazolam dose for seizures?",
+    "back": "Roughly 0.2 mg/kg via atomizer, with onset within minutes, serving as a bridge while a more durable route is secured."
+  },
+  {
+    "id": 189,
+    "chapter": 12,
+    "front": "What is the intranasal fentanyl dose for analgesia?",
+    "back": "About 1.5 to 2 micrograms/kg via atomizer."
+  },
+  {
+    "id": 190,
+    "chapter": 12,
+    "front": "What drugs can be given endotracheally, remembered by which mnemonic?",
+    "back": "LEAN: lidocaine, epinephrine, atropine, and naloxone. Sodium bicarbonate, calcium, and glucose are never given endotracheally."
+  },
+  {
+    "id": 191,
+    "chapter": 12,
+    "front": "What is the endotracheal epinephrine dose relative to the IV dose?",
+    "back": "Roughly 10 times the IV dose, about 0.1 mg/kg of the 1 mg/mL concentration, because endotracheal absorption is erratic and inferior."
+  },
+  {
+    "id": 192,
+    "chapter": 12,
+    "front": "Why must IO boluses be given by pressure rather than gravity?",
+    "back": "Marrow is a high-resistance space, so fluids will not run by gravity at useful rates; deliver boluses by pressure bag, syringe push, or a rapid infuser."
+  },
+  {
+    "id": 193,
+    "chapter": 13,
+    "front": "What three percutaneous central venous routes dominate pediatric practice?",
+    "back": "The femoral vein, the internal jugular vein, and the subclavian vein, with the saphenous cutdown as a surgical fallback."
+  },
+  {
+    "id": 194,
+    "chapter": 13,
+    "front": "What is the Seldinger technique?",
+    "back": "A thin-walled needle enters the vein, a guidewire passes through into the lumen, the needle is withdrawn over the wire, a dilator enlarges the tract, and the catheter is advanced over the wire before the wire is removed."
+  },
+  {
+    "id": 195,
+    "chapter": 13,
+    "front": "How does central catheter French size follow weight?",
+    "back": "3 French for neonates under 5 kg, 4 French for 5 to 15 kg, 5 French for 15 to 40 kg, and 7 French for adolescents over 40 kg."
+  },
+  {
+    "id": 196,
+    "chapter": 13,
+    "front": "What does the NAVEL arrangement describe at the femoral region?",
+    "back": "From lateral to medial: Nerve, Artery, Vein, Empty space, Lymphatics. The femoral vein sits just medial to the palpable arterial pulse, roughly 1 to 2 cm below the inguinal ligament."
+  },
+  {
+    "id": 197,
+    "chapter": 13,
+    "front": "Why is the femoral route often preferred during cardiopulmonary arrest?",
+    "back": "Cannulation proceeds at the groin without interrupting chest compressions or airway management."
+  },
+  {
+    "id": 198,
+    "chapter": 13,
+    "front": "How is a vein distinguished from an artery on ultrasound?",
+    "back": "The vein is compressible, thin-walled, and non-pulsatile, while the artery is round, thick-walled, pulsatile, and noncompressible. Gentle probe pressure collapses the vein but not the artery."
+  },
+  {
+    "id": 199,
+    "chapter": 13,
+    "front": "Why is the right internal jugular vein preferred?",
+    "back": "It provides a nearly straight line to the right atrium and avoids the thoracic duct on the left."
+  },
+  {
+    "id": 200,
+    "chapter": 13,
+    "front": "Which central route has the lowest infection rate but the highest pneumothorax risk?",
+    "back": "The subclavian vein, which is technically the most demanding; the pleural apex sits dangerously close in small children, so the needle is kept flat to the chest."
+  },
+  {
+    "id": 201,
+    "chapter": 13,
+    "front": "What is transfixion during femoral cannulation in infants?",
+    "back": "A brisk advance drives the needle through both walls of the soft vein so flash appears only on slow withdrawal. Advance in small increments and aspirate while withdrawing if no flash is seen."
+  },
+  {
+    "id": 202,
+    "chapter": 13,
+    "front": "How is air embolism prevented during internal jugular cannulation?",
+    "back": "Keep the hub occluded when open to atmosphere, position the patient head-down in Trendelenburg, and have the child hum or exhale during hub manipulation when feasible."
+  },
+  {
+    "id": 203,
+    "chapter": 13,
+    "front": "Where is the great saphenous vein found for a cutdown?",
+    "back": "Consistently just anterior to the medial malleolus at the ankle, where its position barely varies between patients."
+  },
+  {
+    "id": 204,
+    "chapter": 13,
+    "front": "What is a venotomy in a saphenous cutdown?",
+    "back": "A small partial transverse incision into about one third of the vein's circumference, through which the catheter is introduced and advanced proximally."
+  },
+  {
+    "id": 205,
+    "chapter": 13,
+    "front": "What confirms internal jugular or subclavian catheter tip position?",
+    "back": "A chest radiograph verifying the tip at the cavoatrial junction and excluding pneumothorax; the tip should not sit within the right atrium, where it risks dysrhythmia and perforation."
+  },
+  {
+    "id": 206,
+    "chapter": 13,
+    "front": "Why is a neck hematoma in an infant more dangerous than in an adult?",
+    "back": "A small volume of blood can deviate or compress the pediatric trachea, so a carotid puncture warrants prolonged direct pressure and close airway observation."
+  },
+  {
+    "id": 207,
+    "chapter": 13,
+    "front": "What ultrasound transducer is used for pediatric central access?",
+    "back": "A high-frequency linear transducer, typically 10 to 15 MHz, because the small superficial vessels of children resolve poorly under lower frequencies."
+  },
+  {
+    "id": 208,
+    "chapter": 13,
+    "front": "How is guidewire loss into the circulation prevented?",
+    "back": "By maintaining a grip on the wire at all times during the procedure."
+  },
+  {
+    "id": 209,
+    "chapter": 14,
+    "front": "How many vessels are in the umbilical cord and what are they?",
+    "back": "Three: one large, thin-walled umbilical vein and two smaller, thick-walled, often constricted umbilical arteries."
+  },
+  {
+    "id": 210,
+    "chapter": 14,
+    "front": "Why is umbilical vein catheterization preferred for resuscitation epinephrine?",
+    "back": "It is the fastest route to central venous access in the newborn and delivers epinephrine reliably to the central circulation, unlike the erratic endotracheal route."
+  },
+  {
+    "id": 211,
+    "chapter": 14,
+    "front": "What are the UAC indications, and what is it never used for?",
+    "back": "Continuous arterial blood pressure monitoring and frequent arterial blood gas sampling. Arteries are for sampling and pressure, never for pushing resuscitation drugs like epinephrine."
+  },
+  {
+    "id": 212,
+    "chapter": 14,
+    "front": "What are the contraindications to umbilical catheterization?",
+    "back": "Omphalitis, omphalocele, gastroschisis, peritonitis, and necrotizing enterocolitis. None should delay a UVC placed for true cardiac arrest."
+  },
+  {
+    "id": 213,
+    "chapter": 14,
+    "front": "How is UVC catheter size chosen by weight?",
+    "back": "A 3.5 French catheter for infants below approximately 1.5 kg, and a 5 French catheter at or above 1.5 kg."
+  },
+  {
+    "id": 214,
+    "chapter": 14,
+    "front": "How do you distinguish the umbilical vein from the arteries on the cut cord?",
+    "back": "The vein is a single large, thin-walled, gaping vessel usually cephalad at twelve o'clock; the two arteries are smaller, thick-walled, constricted round openings grouped caudally."
+  },
+  {
+    "id": 215,
+    "chapter": 14,
+    "front": "How far is an emergency UVC advanced during resuscitation?",
+    "back": "Only 4 to 5 cm in a term infant, or just until blood returns freely, often 2 to 4 cm in a preterm infant, keeping the tip in the vein or just into the inferior vena cava."
+  },
+  {
+    "id": 216,
+    "chapter": 14,
+    "front": "What is the Shukla formula for a high-line UAC depth?",
+    "back": "Insertion depth in centimeters equals (3 times birth weight in kg) plus 9, with the stump length added. A low line is roughly birth weight in kg plus 7 cm."
+  },
+  {
+    "id": 217,
+    "chapter": 14,
+    "front": "Where should the UAC tip sit for a high line versus a low line?",
+    "back": "A high line at T6 to T9 in the descending thoracic aorta, and a low line at L3 to L4 below the renal and mesenteric arteries, both confirmed radiographically."
+  },
+  {
+    "id": 218,
+    "chapter": 14,
+    "front": "How does the UAC course differ from the UVC on radiograph?",
+    "back": "The UAC courses caudally into the pelvis before turning cephalad, while the UVC travels directly cephalad from the umbilicus toward the diaphragm without the initial downward loop."
+  },
+  {
+    "id": 219,
+    "chapter": 14,
+    "front": "What are the three rapid questions at birth in the NRP algorithm?",
+    "back": "Is the infant term, does it have good tone, and is it breathing or crying? An infant answering yes to all three stays with the mother for routine care."
+  },
+  {
+    "id": 220,
+    "chapter": 14,
+    "front": "What is the single most important intervention in neonatal resuscitation?",
+    "back": "Positive-pressure ventilation, delivered at 40 to 60 breaths per minute; most newborns who require help respond to effective ventilation alone."
+  },
+  {
+    "id": 221,
+    "chapter": 14,
+    "front": "When are chest compressions begun in neonatal resuscitation?",
+    "back": "When the heart rate falls below 60 beats per minute despite 30 seconds of effective ventilation; intubate, increase oxygen to 100 percent, and coordinate compressions with ventilation."
+  },
+  {
+    "id": 222,
+    "chapter": 14,
+    "front": "What is the neonatal compression-to-ventilation ratio and rate?",
+    "back": "A 3:1 ratio using the two-thumb encircling technique, delivering 90 compressions and 30 breaths per minute for 120 events per minute."
+  },
+  {
+    "id": 223,
+    "chapter": 14,
+    "front": "What is the UVC epinephrine dose in neonatal resuscitation?",
+    "back": "0.01 to 0.03 mg/kg (0.1 to 0.3 mL/kg of the 0.1 mg/mL concentration), repeated every 3 to 5 minutes, preferred over the endotracheal route."
+  },
+  {
+    "id": 224,
+    "chapter": 14,
+    "front": "What is the earliest sign of UAC-related vasospasm or thromboembolism?",
+    "back": "Blanching, mottling, or a dusky toe on inspection of the lower limbs and buttocks, which should prompt immediate reassessment and possible catheter removal."
+  },
+  {
+    "id": 225,
+    "chapter": 15,
+    "front": "What are the five measurable elements of high-quality CPR?",
+    "back": "Push fast at 100 to 120 per minute, push hard to one-third the AP chest diameter, allow full recoil, minimize interruptions, and avoid overventilation."
+  },
+  {
+    "id": 226,
+    "chapter": 15,
+    "front": "What are the target compression depths for infants and children?",
+    "back": "About 4 cm (1.5 inches) in the infant and about 5 cm (2 inches) in the child, equal to one-third of the anteroposterior chest diameter."
+  },
+  {
+    "id": 227,
+    "chapter": 15,
+    "front": "What chest compression fraction should be targeted?",
+    "back": "At least 60 percent, and ideally above 80 percent, the proportion of arrest time actually spent compressing."
+  },
+  {
+    "id": 228,
+    "chapter": 15,
+    "front": "Why is the two-thumb encircling technique preferred for infants?",
+    "back": "When two rescuers are present, the encircling hands generate higher peak compression pressures, more consistent depth, and improved diastolic pressure that drives coronary flow."
+  },
+  {
+    "id": 229,
+    "chapter": 15,
+    "front": "Where are infant compressions delivered?",
+    "back": "Over the lower half of the sternum, just below the intermammary line, avoiding the xiphoid which risks hepatic injury and the lateral ribs."
+  },
+  {
+    "id": 230,
+    "chapter": 15,
+    "front": "How often should compressors rotate, and why?",
+    "back": "Every two minutes, timed to coincide with rhythm checks, because fatigue degrades compression quality measurably within two minutes even when the rescuer does not perceive tiring."
+  },
+  {
+    "id": 231,
+    "chapter": 15,
+    "front": "What is the ventilation strategy once an advanced airway is in place?",
+    "back": "Compressions become continuous at 100 to 120 per minute while the airway rescuer delivers one breath every 2 to 3 seconds, equal to 20 to 30 per minute, without pausing compressions."
+  },
+  {
+    "id": 232,
+    "chapter": 15,
+    "front": "What are the two shockable rhythms?",
+    "back": "Ventricular fibrillation and pulseless ventricular tachycardia, treated by unsynchronized defibrillation, the only definitive therapy."
+  },
+  {
+    "id": 233,
+    "chapter": 15,
+    "front": "What is the biphasic defibrillation energy sequence in children?",
+    "back": "First shock at 2 J/kg, second at 4 J/kg, with subsequent shocks at least 4 J/kg, escalating up to 10 J/kg or the adult dose for refractory VF or VT."
+  },
+  {
+    "id": 234,
+    "chapter": 15,
+    "front": "What should you do immediately after delivering a defibrillation shock?",
+    "back": "Resume chest compressions immediately without first checking a pulse or rhythm, performing two minutes of CPR before the next rhythm analysis."
+  },
+  {
+    "id": 235,
+    "chapter": 15,
+    "front": "When is epinephrine given in a shockable arrest?",
+    "back": "After the initial shocks have failed, not before, because the priority in VF and pulseless VT is electrical defibrillation; an antiarrhythmic is then added for shock-refractory rhythm."
+  },
+  {
+    "id": 236,
+    "chapter": 15,
+    "front": "What electrode size is used by weight for defibrillation?",
+    "back": "Infant (small) pads for children under 10 kg and adult (large) pads for those 10 kg or more, using the largest that fit without the contact surfaces touching."
+  },
+  {
+    "id": 237,
+    "chapter": 15,
+    "front": "When is an AED with a pediatric attenuator used?",
+    "back": "For children under eight years when a manual defibrillator is unavailable; if only a standard adult AED is at hand, use it rather than withhold defibrillation."
+  },
+  {
+    "id": 238,
+    "chapter": 15,
+    "front": "What is the synchronized cardioversion energy sequence?",
+    "back": "Begin at 0.5 to 1 J/kg, increasing to 2 J/kg for subsequent attempts, re-arming the sync button before every shock since sync mode disengages after each discharge."
+  },
+  {
+    "id": 239,
+    "chapter": 15,
+    "front": "What do you do if a patient deteriorates into VF during attempted cardioversion?",
+    "back": "The device in sync mode may refuse to discharge because it cannot find an R wave; switch out of sync mode and defibrillate immediately at 2 J/kg."
+  },
+  {
+    "id": 240,
+    "chapter": 15,
+    "front": "Why does incomplete recoil starve the next compression of preload?",
+    "back": "Forward flow depends on the chest returning fully to its resting shape; leaning works a half-empty cylinder, raising intrathoracic pressure and impeding venous return."
+  },
+  {
+    "id": 241,
+    "chapter": 16,
+    "front": "Why is pediatric bradycardia treated with oxygenation before electricity?",
+    "back": "The bradycardic child is usually hypoxic, not in intrinsic conduction failure, so a heart rate below 60 with poor perfusion is treated first with oxygenation, ventilation, and compressions."
+  },
+  {
+    "id": 242,
+    "chapter": 16,
+    "front": "What is the atropine dose for pediatric bradycardia and its minimum dose?",
+    "back": "0.02 mg/kg with a minimum single dose of 0.1 mg and a maximum of 0.5 mg; the minimum exists because smaller doses can paradoxically worsen bradycardia."
+  },
+  {
+    "id": 243,
+    "chapter": 16,
+    "front": "When is atropine preferred over epinephrine for bradycardia?",
+    "back": "When increased vagal tone or cholinergic drug toxicity is the likely mechanism, as with suctioning, laryngoscopy, or organophosphate poisoning, or primary atrioventricular block."
+  },
+  {
+    "id": 244,
+    "chapter": 16,
+    "front": "What are the specific indications for transcutaneous pacing?",
+    "back": "Symptomatic bradycardia unresponsive to drugs and complete (third-degree) heart block with hemodynamic compromise. It will not help persistent asystole."
+  },
+  {
+    "id": 245,
+    "chapter": 16,
+    "front": "What pad configuration is preferred for pacing in small children?",
+    "back": "Anterior-posterior, one pad over the precordium left of the sternum and the other on the back between the scapulae, since the small chest leaves little room to separate two anterior pads."
+  },
+  {
+    "id": 246,
+    "chapter": 16,
+    "front": "What pacing rate and output strategy is used?",
+    "back": "Start at 80 to 100 per minute (100 to 120 for infants), then titrate output upward in steps to the lowest level that achieves and maintains capture, often 50 to 100 mA, plus a small margin."
+  },
+  {
+    "id": 247,
+    "chapter": 16,
+    "front": "How are electrical and mechanical capture confirmed during pacing?",
+    "back": "Electrical capture is a wide QRS following each pacing spike. Mechanical capture is confirmed by a central pulse matching the pacer rate, correlated with oximetry, arterial waveform, or ultrasound."
+  },
+  {
+    "id": 248,
+    "chapter": 16,
+    "front": "What is false capture and how is it avoided?",
+    "back": "Mistaking pacing-induced skeletal muscle contraction for a pulse. Never confirm capture by palpating near the pacing pads; palpate the femoral pulse and correlate with oximetry or ultrasound."
+  },
+  {
+    "id": 249,
+    "chapter": 16,
+    "front": "What is cardiac tamponade?",
+    "back": "Fluid in the pericardial sac raises intrapericardial pressure so the heart cannot fill during diastole, collapsing cardiac output. The rate of accumulation matters more than the volume."
+  },
+  {
+    "id": 250,
+    "chapter": 16,
+    "front": "What is the Beck triad of cardiac tamponade?",
+    "back": "Hypotension, muffled heart sounds, and distended neck veins, though all three are present in a minority of children."
+  },
+  {
+    "id": 251,
+    "chapter": 16,
+    "front": "What echocardiographic findings indicate tamponade?",
+    "back": "Diastolic collapse of the right atrium and right ventricle with a dilated inferior vena cava that does not vary with respiration, plus pulsus paradoxus exceeding 10 mmHg."
+  },
+  {
+    "id": 252,
+    "chapter": 16,
+    "front": "Why is ultrasound-guided pericardiocentesis preferred?",
+    "back": "It dramatically reduces the risk of myocardial and coronary injury and confirms the needle and fluid are where the clinician believes, locating the largest, safest fluid pocket."
+  },
+  {
+    "id": 253,
+    "chapter": 16,
+    "front": "Describe the subxiphoid landmark approach to pericardiocentesis.",
+    "back": "Insert just left of the xiphoid between it and the left costal margin at a shallow 30 to 45 degree angle, directing toward the left shoulder while aspirating and watching the ECG."
+  },
+  {
+    "id": 254,
+    "chapter": 16,
+    "front": "What ECG change signals the pericardiocentesis needle has touched the myocardium?",
+    "back": "New ST-segment elevation, ectopy, or a current of injury; withdraw the needle slightly until the changes resolve."
+  },
+  {
+    "id": 255,
+    "chapter": 16,
+    "front": "How much fluid is typically removed to relieve tamponade in a small child?",
+    "back": "Often only 20 to 50 mL, because the pressure-volume relationship of the tense pericardium is steep and the first few milliliters relieve the most pressure."
+  },
+  {
+    "id": 256,
+    "chapter": 16,
+    "front": "How is agitated saline used to confirm needle position in pericardiocentesis?",
+    "back": "Inject a few milliliters of agitated saline while imaging; bubbles in the pericardial space confirm correct placement, while bubbles in the right ventricle indicate the needle is in the heart."
+  },
+  {
+    "id": 257,
+    "chapter": 17,
+    "front": "What does the sedation continuum principle require of the clinician at any target depth?",
+    "back": "Be staffed and equipped to rescue the child one level deeper than intended. A team targeting moderate sedation must be able to rescue from deep sedation, and one targeting deep sedation must be able to perform bag-mask ventilation and definitive airway management."
+  },
+  {
+    "id": 258,
+    "chapter": 17,
+    "front": "What is the IV and IM dosing of ketamine for pediatric procedural sedation?",
+    "back": "1 to 2 mg/kg IV over one to two minutes, or 4 to 5 mg/kg IM when there is no IV access. It preserves spontaneous respiration, airway reflexes, and hemodynamic stability."
+  },
+  {
+    "id": 259,
+    "chapter": 17,
+    "front": "Why is capnography mandatory for moderate and deep pediatric sedation?",
+    "back": "End-tidal CO2 detects hypoventilation and apnea seconds before pulse oximetry registers a fall in oxygen saturation, especially when supplemental oxygen masks desaturation."
+  },
+  {
+    "id": 260,
+    "chapter": 17,
+    "front": "What does the SOAPME checklist stand for in presedation equipment preparation?",
+    "back": "Suction, Oxygen, Airway equipment, Pharmacy (including reversal agents naloxone and flumazenil), Monitors, and Equipment extras such as a defibrillator. Assemble and verify it before any drug is drawn."
+  },
+  {
+    "id": 261,
+    "chapter": 17,
+    "front": "For emergency pediatric sedation, is recent oral intake an absolute contraindication?",
+    "back": "No. Both AAP/AAPD and ACEP state recent food intake is a factor to weigh, not an absolute contraindication. Weigh urgency, planned depth, and aspiration risk; ketamine and a lighter plane are reasonable mitigations."
+  },
+  {
+    "id": 262,
+    "chapter": 17,
+    "front": "How is ketamine-induced laryngospasm managed during sedation?",
+    "back": "Jaw thrust, suction, and firm positive-pressure ventilation, applying pressure at the laryngospasm notch behind the earlobe. If refractory, give a small dose of succinylcholine 0.1 to 0.2 mg/kg to break the spasm."
+  },
+  {
+    "id": 263,
+    "chapter": 17,
+    "front": "What is the two-provider model for procedural sedation?",
+    "back": "One clinician is dedicated solely to administering sedation, monitoring, and the airway, while a separate clinician performs the procedure. The monitoring provider does not participate in the procedure."
+  },
+  {
+    "id": 264,
+    "chapter": 17,
+    "front": "What is the dosing and main caution for the fentanyl-midazolam combination?",
+    "back": "Fentanyl 1 mcg/kg IV titrated and midazolam 0.05 to 0.1 mg/kg IV. Their respiratory depression is synergistic and additive, so titrate each separately and watch closely for apnea."
+  },
+  {
+    "id": 265,
+    "chapter": 17,
+    "front": "What agent suits nonpainful imaging such as MRI with minimal respiratory depression?",
+    "back": "Dexmedetomidine, a selective alpha-2 agonist producing sleep-like sedation. Dose intranasal 2 to 3 mcg/kg or IV load 1 to 2 mcg/kg over ten minutes; bradycardia and hypotension are the main effects."
+  },
+  {
+    "id": 266,
+    "chapter": 17,
+    "front": "What is the reversal agent and dose for benzodiazepines, and its key risk?",
+    "back": "Flumazenil 0.01 mg/kg reverses benzodiazepine effect, but it may precipitate seizures in benzodiazepine-dependent children. Naloxone 0.01 to 0.1 mg/kg reverses opioid effect."
+  },
+  {
+    "id": 267,
+    "chapter": 17,
+    "front": "How does the ASA physical status class flag higher sedation risk?",
+    "back": "Class III (severe systemic disease) and above, plus children under one year, carry elevated risk and warrant consideration of anesthesiology consultation or a more conservative agent and depth."
+  },
+  {
+    "id": 268,
+    "chapter": 17,
+    "front": "Why does monitoring intensity not relax once the procedure ends?",
+    "back": "When the painful stimulus stops, residual drug previously counterbalanced by stimulation can deepen the plane abruptly. Most adverse respiratory events occur after procedural stimulation ends."
+  },
+  {
+    "id": 269,
+    "chapter": 17,
+    "front": "What is ketofol and what does it balance?",
+    "back": "A combination of ketamine and propofol, often 1:1, balancing ketamine's analgesia and hemodynamic support against propofol's antiemesis and rapid recovery, potentially reducing each agent's dose-related adverse effects."
+  },
+  {
+    "id": 270,
+    "chapter": 17,
+    "front": "What discharge criteria must a child meet after procedural sedation?",
+    "back": "Return to baseline mental status, a patent airway with stable vitals, intact protective reflexes, ability to maintain hydration, and adequate motor control, documented by the modified Aldrete score or equivalent."
+  },
+  {
+    "id": 271,
+    "chapter": 17,
+    "front": "What is the most common adverse event during sedation and its first management step?",
+    "back": "Airway obstruction. Treat with a jaw thrust, repositioning, and an oral or nasopharyngeal airway; use a shoulder roll in infants whose large occiput flexes the neck."
+  },
+  {
+    "id": 272,
+    "chapter": 18,
+    "front": "What are the maximum doses of lidocaine, plain and with epinephrine?",
+    "back": "Plain lidocaine maximum is 4.5 mg/kg, rising to 7 mg/kg when combined with epinephrine. Calculate the weight-based ceiling for every child before injection."
+  },
+  {
+    "id": 273,
+    "chapter": 18,
+    "front": "What is the maximum dose of bupivacaine?",
+    "back": "2.5 mg/kg, or up to 3 mg/kg with epinephrine. Bupivacaine has slower onset, lasts four to eight hours, and is more cardiotoxic in overdose than lidocaine."
+  },
+  {
+    "id": 274,
+    "chapter": 18,
+    "front": "What are the early signs and treatment of local anesthetic systemic toxicity (LAST)?",
+    "back": "Early neurologic signs are perioral numbness, tinnitus, metallic taste, agitation, and seizures, progressing to cardiovascular collapse. Treat with airway and seizure support plus IV lipid emulsion 20% bolused at roughly 1.5 mL/kg over one minute."
+  },
+  {
+    "id": 275,
+    "chapter": 18,
+    "front": "Why does local infiltration of an abscess often fail?",
+    "back": "Infected, inflamed tissue is acidic, which shifts the anesthetic toward its ionized form that penetrates the nerve membrane poorly. Use a peripheral field block in healthy tissue instead."
+  },
+  {
+    "id": 276,
+    "chapter": 18,
+    "front": "What is LET gel and where must it be avoided?",
+    "back": "LET is lidocaine 4 percent, epinephrine 0.1 percent, tetracaine 0.5 percent, the standard topical for open wounds. Avoid it on end-arterial structures: digits, nose tip, ear, and penis, because of its vasoconstrictors."
+  },
+  {
+    "id": 277,
+    "chapter": 18,
+    "front": "How do you reduce the pain of local anesthetic infiltration?",
+    "back": "Buffer lidocaine with sodium bicarbonate roughly 1:9, warm the solution, use a 27 to 30 gauge needle, and inject slowly through the wound edge from within the wound rather than through intact skin."
+  },
+  {
+    "id": 278,
+    "chapter": 18,
+    "front": "Why is plain lidocaine used for a digital nerve block?",
+    "back": "The digit has an end-arterial blood supply, so epinephrine is avoided. Excessive volume can also cause a circumferential tourniquet effect; deposit about 1 mL on each side, total 2 to 4 mL."
+  },
+  {
+    "id": 279,
+    "chapter": 18,
+    "front": "Why is EMLA used cautiously in infants under three months?",
+    "back": "Its prilocaine component carries a small risk of methemoglobinemia in young infants. EMLA needs about 60 minutes for full effect; LMX works in about 30 minutes without that concern."
+  },
+  {
+    "id": 280,
+    "chapter": 18,
+    "front": "What is the difference between local infiltration and a field block?",
+    "back": "Local infiltration deposits anesthetic directly into the tissue to be incised. A field block encircles the operative area with a ring of subcutaneous anesthetic at its periphery, useful over an acidic abscess cavity."
+  },
+  {
+    "id": 281,
+    "chapter": 18,
+    "front": "What nerve blocks anesthetize the upper lip and the lower lip for cosmetic facial repair?",
+    "back": "The infraorbital block anesthetizes the midface and upper lip; the mental block anesthetizes the lower lip and chin. Both can be done by an intraoral route, avoiding distortion of wound margins."
+  },
+  {
+    "id": 282,
+    "chapter": 18,
+    "front": "What is a hematoma block and its lidocaine volume?",
+    "back": "Injection of lidocaine directly into a fracture hematoma for reduction analgesia. Aspirate blood to confirm placement, then instill roughly 0.2 to 0.3 mL/kg of 1 percent lidocaine within the ceiling, using strict asepsis."
+  },
+  {
+    "id": 283,
+    "chapter": 18,
+    "front": "Up to what concentration is nitrous oxide delivered, and what are its contraindications?",
+    "back": "Up to 50 percent in oxygen for anxiolysis and mild analgesia. Contraindications stem from gas expansion in closed spaces: pneumothorax, bowel obstruction, middle-ear or sinus disease, and recent intraocular gas."
+  },
+  {
+    "id": 284,
+    "chapter": 18,
+    "front": "How does adding epinephrine change a local anesthetic's properties?",
+    "back": "Vasoconstriction prolongs duration, reduces bleeding, slows systemic absorption, and raises the safe dose ceiling. Concentrations of 1:100,000 to 1:200,000 are used."
+  },
+  {
+    "id": 285,
+    "chapter": 18,
+    "front": "What should be rechecked after any digital block and before discharge?",
+    "back": "Document capillary refill and color of the fingertip before and after the procedure, and warn the family the child may bite an insensate lip or burn an insensate finger until sensation returns."
+  },
+  {
+    "id": 286,
+    "chapter": 18,
+    "front": "Why is a posterior tibial nerve block useful for a plantar foreign body?",
+    "back": "Placed behind the medial malleolus near the posterior tibial artery, it anesthetizes the sole and spares the child the exquisitely painful infiltration of a weight-bearing surface."
+  },
+  {
+    "id": 287,
+    "chapter": 19,
+    "front": "How much irrigation volume is recommended for a simple laceration?",
+    "back": "Roughly 50 to 100 mL per centimeter of wound length with normal saline or clean tap water, delivered at enough pressure to dislodge debris, typically through an 18 or 19 gauge catheter."
+  },
+  {
+    "id": 288,
+    "chapter": 19,
+    "front": "What suture caliber is used on the face, and when are facial sutures removed?",
+    "back": "6-0 nonabsorbable monofilament such as nylon or polypropylene. Remove facial sutures at 3 to 5 days and support the wound with tape to prevent railroad-track scarring."
+  },
+  {
+    "id": 289,
+    "chapter": 19,
+    "front": "What is the golden period for wound closure, and is it a strict rule?",
+    "back": "Traditionally six hours, but it is a guide, not a rule. Well-vascularized facial and scalp wounds may close primarily up to 24 hours given good cleansing; contaminated wounds on poorly perfused areas close sooner."
+  },
+  {
+    "id": 290,
+    "chapter": 19,
+    "front": "When are tissue adhesives like Dermabond appropriate, and when contraindicated?",
+    "back": "Best for short, clean, low-tension linear lacerations, especially on the face. Avoid over joints, on mucosal surfaces, in hair, and on grossly contaminated, infected, or bite wounds. Apply over, never into, the wound."
+  },
+  {
+    "id": 291,
+    "chapter": 19,
+    "front": "What closure is preferred for a linear scalp laceration, and why?",
+    "back": "Staples, which close hair-bearing scalp rapidly with infection and cosmetic outcomes equal to sutures, ideal for the wriggling child. Avoid them where head CT or MRI is anticipated, as they create artifact."
+  },
+  {
+    "id": 292,
+    "chapter": 19,
+    "front": "How is tetanus prophylaxis decided for a wound?",
+    "back": "By immunization status and wound class: a clean minor wound needs a booster if more than 10 years have passed; a tetanus-prone wound needs a booster after 5 years plus immunoglobulin if the primary series is incomplete."
+  },
+  {
+    "id": 293,
+    "chapter": 19,
+    "front": "Are routine antibiotics indicated for simple clean lacerations?",
+    "back": "No. Reserve systemic antibiotics for bites, grossly contaminated wounds, open fractures, wounds with exposed cartilage or bone, and immunocompromised children."
+  },
+  {
+    "id": 294,
+    "chapter": 19,
+    "front": "How should a vermilion-border lip laceration be repaired?",
+    "back": "Align the white roll precisely with an anchoring suture first, ideally under a regional block to avoid distortion. A through-and-through lip laceration is closed in layers from inside out: mucosa, then muscle, then skin."
+  },
+  {
+    "id": 295,
+    "chapter": 19,
+    "front": "Why must underlying structures be assessed before and after anesthesia in a laceration?",
+    "back": "A tendon laceration can retract out of view in the neutral position and reveal itself only when the joint is moved through its range. Test tendons, nerves, and vessels distal to the injury before and after."
+  },
+  {
+    "id": 296,
+    "chapter": 19,
+    "front": "How is a buried dermal suture tied, and why?",
+    "back": "With the knot inverted so it lies at the bottom of the wound and does not extrude through the surface. Buried absorbable dermal sutures eliminate tension and dead space before the skin is closed."
+  },
+  {
+    "id": 297,
+    "chapter": 19,
+    "front": "What is the hair apposition technique?",
+    "back": "For a small linear scalp laceration with sufficient hair, strands from each wound edge are twisted together and secured with a drop of tissue adhesive, closing the wound with nothing to remove."
+  },
+  {
+    "id": 298,
+    "chapter": 19,
+    "front": "Why must puncture wounds of the sole through a shoe be left open?",
+    "back": "They carry a particular risk of Pseudomonas osteomyelitis, so they are irrigated and left open rather than closed."
+  },
+  {
+    "id": 299,
+    "chapter": 19,
+    "front": "How are most mammalian bite wounds managed?",
+    "back": "Most uncomplicated bites are best managed open with copious irrigation and prophylactic antibiotics, except selected facial wounds closed for cosmesis. Human fight bites over the knuckle are irrigated, left open, splinted, and treated with antibiotics."
+  },
+  {
+    "id": 300,
+    "chapter": 19,
+    "front": "What is the common technical pitfall with tissue adhesive application?",
+    "back": "Applying adhesive into rather than over the wound, where it acts as a foreign body and impairs healing, or letting it run into the eye or hair. Position the child so gravity carries drips away from the eyes."
+  },
+  {
+    "id": 301,
+    "chapter": 19,
+    "front": "When are wound-closure tapes (Steri-Strips) appropriate?",
+    "back": "For superficial, low-tension, gaping-free lacerations and to reinforce wounds after early suture removal. They adhere poorly to moist, hairy, or mobile areas and provide the least secure closure."
+  },
+  {
+    "id": 302,
+    "chapter": 20,
+    "front": "What is the cardinal sign of a drainable abscess?",
+    "back": "Fluctuance, the palpable wave of trapped fluid. Point-of-care ultrasound confirms a drainable collection (anechoic pocket with posterior acoustic enhancement) versus cellulitis (cobblestoning)."
+  },
+  {
+    "id": 303,
+    "chapter": 20,
+    "front": "Why is procedural sedation usually needed to drain a pediatric abscess?",
+    "back": "The acidic infected tissue inactivates local anesthetic and injecting into the tense cavity is intensely painful. Combine a peripheral field block with topical anesthetic and dissociative-dose ketamine for most children."
+  },
+  {
+    "id": 304,
+    "chapter": 20,
+    "front": "Describe the loop drainage technique for an abscess.",
+    "back": "Make two small stab incisions at the abscess poles, break loculations, then thread a vessel loop, Penrose, or silicone strip through the cavity exiting both incisions and tie loosely outside the skin. The loop maintains drainage with no packing."
+  },
+  {
+    "id": 305,
+    "chapter": 20,
+    "front": "What is the most common technical error in classic incision and drainage?",
+    "back": "An undersized stab incision that seals prematurely and leads to recurrence. Make a full-length linear incision along skin tension lines, then thoroughly disrupt loculations with a hemostat."
+  },
+  {
+    "id": 306,
+    "chapter": 20,
+    "front": "Which facial abscesses are dangerous and require specialist involvement?",
+    "back": "Central-face abscesses in the danger triangle, because of the risk of cavernous sinus thrombosis. These, plus deep neck, perirectal, and hand abscesses, require imaging and specialist care."
+  },
+  {
+    "id": 307,
+    "chapter": 20,
+    "front": "When are antibiotics added to incision and drainage of a simple abscess?",
+    "back": "Drainage alone cures most simple abscesses. Add antibiotics for surrounding cellulitis, systemic signs, an abscess over about 2 cm or multiple lesions, immunocompromise, very young age, or a high-risk location."
+  },
+  {
+    "id": 308,
+    "chapter": 20,
+    "front": "What oral antibiotics cover community-associated MRSA in children?",
+    "back": "Clindamycin 10 to 13 mg/kg per dose three times daily, trimethoprim-sulfamethoxazole 8 to 12 mg/kg/day of the trimethoprim component divided twice daily, or doxycycline 2 mg/kg per dose twice daily in children over eight."
+  },
+  {
+    "id": 309,
+    "chapter": 20,
+    "front": "What is a felon and why must it be drained promptly?",
+    "back": "A pulp-space abscess of the fingertip that builds dangerous pressure in the closed septated fat compartment, threatening blood supply to the distal phalanx. Use a unilateral longitudinal incision away from the neurovascular bundle; many are referred to hand surgery."
+  },
+  {
+    "id": 310,
+    "chapter": 20,
+    "front": "What is the most dangerous diagnosis masquerading as an abscess?",
+    "back": "Necrotizing soft-tissue infection, signaled by pain out of proportion, rapidly advancing erythema, crepitus, bullae, skin necrosis, and systemic toxicity. It is a surgical emergency that incision and drainage alone will not address."
+  },
+  {
+    "id": 311,
+    "chapter": 20,
+    "front": "Why is breaking up loculations the most important step in classic I and D?",
+    "back": "Residual loculations are the commonest reason an abscess recurs after apparently adequate drainage. Probe the cavity in every direction with a curved hemostat until no septations remain."
+  },
+  {
+    "id": 312,
+    "chapter": 20,
+    "front": "How are atypical mycobacterial neck nodes in young children managed?",
+    "back": "By excision rather than incision, because incision can create a chronic draining sinus. Ultrasound helps distinguish a drainable node from cellulitic adenitis."
+  },
+  {
+    "id": 313,
+    "chapter": 20,
+    "front": "What is the follow-up timing for packed versus loop-drained wounds?",
+    "back": "A packed wound returns in 24 to 48 hours for packing change and recheck; a loop-drained wound has the loop removed in about 7 to 10 days once drainage stops and inflammation resolves."
+  },
+  {
+    "id": 314,
+    "chapter": 20,
+    "front": "What advantage does loop drainage have over classic packing in children?",
+    "back": "Equal or lower treatment failure rates with fewer painful dressing changes and a smaller scar, sparing the child the repeated painful packing changes that classic technique commits them to."
+  },
+  {
+    "id": 315,
+    "chapter": 20,
+    "front": "Along which lines should an abscess incision be oriented?",
+    "back": "Along Langer lines of skin tension to minimize the eventual scar, and on the trunk and extremities so that dependent drainage is favored."
+  },
+  {
+    "id": 316,
+    "chapter": 20,
+    "front": "What home measure promotes continued abscess drainage and comfort?",
+    "back": "Warm compresses or soaks applied several times daily. For loop drainage, the family also gently slides the loop each day to keep the tract patent."
+  },
+  {
+    "id": 317,
+    "chapter": 21,
+    "front": "What tool estimates total body surface area for scattered pediatric burns?",
+    "back": "The palmar method: the surface of the child's own palm including the fingers represents approximately 1 percent of that child's TBSA. Use the patient's palm, never your own."
+  },
+  {
+    "id": 318,
+    "chapter": 21,
+    "front": "Why is the rule of nines unreliable in young children, and what replaces it?",
+    "back": "It ignores the relatively large head, so it should not be used below roughly age 14. Use the age-specific Lund-Browder chart, which counts the head of an infant under one year as 19 percent."
+  },
+  {
+    "id": 319,
+    "chapter": 21,
+    "front": "Which burns are excluded from the TBSA calculation?",
+    "back": "Superficial epidermal burns, the dry erythematous sunburn-like lesions. Counting simple erythema inflates the TBSA and triggers dangerous over-resuscitation."
+  },
+  {
+    "id": 320,
+    "chapter": 21,
+    "front": "State the Parkland formula and its timing.",
+    "back": "4 mL of lactated Ringer's per kilogram per percent TBSA over the first 24 hours, with half given in the first 8 hours counted from the time of injury, and the remaining half over the following 16 hours."
+  },
+  {
+    "id": 321,
+    "chapter": 21,
+    "front": "What urine output targets guide pediatric burn resuscitation?",
+    "back": "1 mL/kg/hr in children weighing less than 30 kg and 0.5 mL/kg/hr in larger children and adolescents. Urine output is the most reliable bedside endpoint; place a urinary catheter."
+  },
+  {
+    "id": 322,
+    "chapter": 21,
+    "front": "What are the indications for limb escharotomy?",
+    "back": "A circumferential full-thickness burn with rising compartment pressure: increasing pain, paresthesias, a tense woody compartment, pallor, coolness, or diminishing Doppler signal. A sustained subeschar pressure above roughly 30 mmHg supports it. Do not wait for pulselessness."
+  },
+  {
+    "id": 323,
+    "chapter": 21,
+    "front": "Where are limb escharotomy incisions placed, and how deep?",
+    "back": "Along the mid-medial and mid-lateral lines, through the full thickness of eschar down to but not through the subcutaneous fat, until the edges spring apart. Extend across involved joints."
+  },
+  {
+    "id": 324,
+    "chapter": 21,
+    "front": "How does escharotomy differ from fasciotomy?",
+    "back": "Escharotomy divides only burned skin and eschar. Fasciotomy opens the muscle fascia and is reserved for established deep compartment syndrome, high-voltage electrical injury, or limbs still ischemic after adequate escharotomy."
+  },
+  {
+    "id": 325,
+    "chapter": 21,
+    "front": "Which topical antimicrobial is preferred for facial burns, and why?",
+    "back": "Bacitracin, because it is non-staining, painless, and well tolerated. Silver sulfadiazine is avoided on the face, in infants under two months, and in sulfa allergy, and it forms a pseudoeschar that complicates depth assessment."
+  },
+  {
+    "id": 326,
+    "chapter": 21,
+    "front": "How are blisters managed in pediatric burns?",
+    "back": "Small intact blisters under about 1 cm, especially over the palm, may be left intact. Large, tense, thin-walled, or ruptured blisters are deroofed, then covered with a topical agent. Never unroof a blister and leave it open to air."
+  },
+  {
+    "id": 327,
+    "chapter": 21,
+    "front": "What is the intranasal fentanyl dose for rapid burn analgesia before IV access?",
+    "back": "1.5 to 2 mcg/kg divided between the nostrils with an atomizer and capped near 100 mcg per dose, achieving onset within a few minutes."
+  },
+  {
+    "id": 328,
+    "chapter": 21,
+    "front": "What distinguishes a full-thickness burn on examination?",
+    "back": "Leathery, dry, inelastic skin that is white, waxy, charred, or translucent, insensate to pinprick because the dermal nerve plexus is gone, and does not blanch. It requires grafting."
+  },
+  {
+    "id": 329,
+    "chapter": 21,
+    "front": "What signs suggest abdominal compartment syndrome from over-resuscitation?",
+    "back": "A tense distended abdomen, rising ventilator pressures, and falling urine output despite generous fluids. Over-resuscitation also produces pulmonary, conjunctival, and extremity edema."
+  },
+  {
+    "id": 330,
+    "chapter": 21,
+    "front": "Which burns warrant referral to a burn center?",
+    "back": "Partial-thickness burns over 10 percent TBSA, any full-thickness burn, burns of the face, hands, feet, genitalia, perineum, or major joints, electrical or chemical burns, inhalation injury, or any pattern suggesting non-accidental injury."
+  },
+  {
+    "id": 331,
+    "chapter": 21,
+    "front": "Why must pediatric burn maintenance fluid contain dextrose?",
+    "back": "Children have limited glycogen reserves, making hypoglycemia a real threat during prolonged resuscitation. Use a dextrose-containing solution such as D5 lactated Ringer's for the maintenance component, added on top of the burn formula."
+  },
+  {
+    "id": 332,
+    "chapter": 22,
+    "front": "What is the Salter-Harris classification used for?",
+    "back": "To organize growth-plate fractures into five types that predict reduction approach and growth-arrest risk. Type II is most common (about 75 percent). Types I and II usually do well with closed reduction; types III, IV, V carry escalating growth-arrest risk."
+  },
+  {
+    "id": 333,
+    "chapter": 22,
+    "front": "Which physeal fractures are appropriate for ED closed reduction?",
+    "back": "Displaced Salter-Harris type I and II injuries with acceptable closed correction. Displaced type III and IV fractures are intra-articular and demand orthopedic involvement for precise reduction."
+  },
+  {
+    "id": 334,
+    "chapter": 22,
+    "front": "Why is a single gentle reduction preferred near a physis?",
+    "back": "Repeated forceful manipulation can injure the germinal cartilage and provoke iatrogenic growth arrest through a bony bridge. If adequate reduction is not achieved after one or two careful tries, consult orthopedics rather than escalating force."
+  },
+  {
+    "id": 335,
+    "chapter": 22,
+    "front": "What ketamine dose is used for painful pediatric orthopedic reduction?",
+    "back": "1 to 2 mg/kg IV over one to two minutes with 0.5 mg/kg increments, or 4 to 5 mg/kg IM when IV access is impractical. Ketamine preserves airway reflexes and spontaneous respiration."
+  },
+  {
+    "id": 336,
+    "chapter": 22,
+    "front": "What is the intranasal fentanyl dose for shorter reductions or as a bridge?",
+    "back": "1.5 to 2 mcg/kg with an atomizer, split between both nares when volume exceeds about 1 mL per nostril. It is needle-free and well suited to finger and patellar reductions and triage analgesia."
+  },
+  {
+    "id": 337,
+    "chapter": 22,
+    "front": "Which deformity never remodels and must be corrected at reduction?",
+    "back": "Rotational malalignment is never accepted at any age because it does not remodel, nor does significant intra-articular incongruity. Angulation in the plane of joint motion can remodel in young children."
+  },
+  {
+    "id": 338,
+    "chapter": 22,
+    "front": "What is the preferred first-line maneuver for shoulder dislocation reduction?",
+    "back": "Scapular manipulation is among the gentlest and most successful, pushing the inferior scapular tip medially while rotating the superior aspect laterally with gentle traction on the hanging arm, often needing minimal sedation."
+  },
+  {
+    "id": 339,
+    "chapter": 22,
+    "front": "How is a lateral patellar dislocation reduced?",
+    "back": "With the patient supine, apply gentle medially directed pressure on the lateral border of the patella while slowly extending the knee; quadriceps tension realigns the extensor mechanism. Often only intranasal fentanyl is needed."
+  },
+  {
+    "id": 340,
+    "chapter": 22,
+    "front": "Why can a dorsal MCP joint dislocation of the thumb become irreducible?",
+    "back": "The volar plate or a tendon can become interposed (a complex dislocation); longitudinal traction tightens the noose. A sesamoid visible within the joint signals entrapment. Flex the wrist and push the proximal phalanx over the metacarpal head instead of pulling."
+  },
+  {
+    "id": 341,
+    "chapter": 22,
+    "front": "How is a dorsally angulated distal radius fracture reduced?",
+    "back": "Longitudinal traction (often with finger traps), accentuate the deformity to disengage fragments, hook the distal fragment over the proximal cortex with thumb pressure, then reverse the angulation while maintaining traction."
+  },
+  {
+    "id": 342,
+    "chapter": 22,
+    "front": "How is a torus (buckle) fracture managed versus a greenstick fracture?",
+    "back": "A torus fracture is stable and needs only immobilization, often a removable wrist splint. A greenstick fracture often requires completing the intact cortex to prevent recurrent angulation."
+  },
+  {
+    "id": 343,
+    "chapter": 22,
+    "front": "Why is splinting preferred over circumferential casting acutely?",
+    "back": "A splint accommodates the swelling that predictably follows a fresh fracture or reduction, whereas a circumferential cast can constrict as edema rises and cause compartment syndrome. Convert to a cast at follow-up once swelling subsides."
+  },
+  {
+    "id": 344,
+    "chapter": 22,
+    "front": "What is the disciplined neurovascular check sequence around reduction?",
+    "back": "Document distal pulses, capillary refill, sensation, and motor function before reduction, after reduction, and again after immobilization. A deficit appearing after splinting mandates immediate loosening and reassessment."
+  },
+  {
+    "id": 345,
+    "chapter": 22,
+    "front": "Why must distal radius fractures have a follow-up radiograph after acceptable reduction?",
+    "back": "They are at risk of late re-displacement within the cast during the first one to two weeks, so a position that looks acceptable at reduction still warrants a follow-up film to confirm it has held."
+  },
+  {
+    "id": 346,
+    "chapter": 22,
+    "front": "What thermal injury risk accompanies splint application?",
+    "back": "Plaster releases heat as it sets, and a thick, tightly wrapped splint over a padded limb can reach temperatures sufficient to burn skin. Use appropriate water temperature, adequate padding, and avoid excessive layering."
+  },
+  {
+    "id": 347,
+    "chapter": 23,
+    "front": "What is the governing rule of splinting?",
+    "back": "Immobilize the joint above and the joint below the injury. A forearm fracture is stabilized from the proximal hand to above the elbow; immobilizing only the fracture site lets adjacent bones transmit force across it."
+  },
+  {
+    "id": 348,
+    "chapter": 23,
+    "front": "What dip water temperature is mandatory for splinting, and why?",
+    "back": "Cool to lukewarm, about 21 to 24 degrees Celsius (70 to 75 degrees Fahrenheit), never hot. Hot water accelerates an uncontrolled set and raises the risk of a thermal burn during the exothermic cure."
+  },
+  {
+    "id": 349,
+    "chapter": 23,
+    "front": "Compare plaster and fiberglass splinting materials.",
+    "back": "Plaster conforms and molds best for holding a reduction but is heavy and slow to cure. Fiberglass is lighter, stronger, faster (working strength in 20 to 30 minutes), and water-tolerant but conforms less readily."
+  },
+  {
+    "id": 350,
+    "chapter": 23,
+    "front": "What is the position of function for splinting the wrist, MCP, and ankle?",
+    "back": "Wrist in slight extension of about 20 degrees, MCP joints flexed 50 to 70 degrees, IP joints near full extension, elbow at 90 degrees, and ankle at a neutral 90-degree right angle."
+  },
+  {
+    "id": 351,
+    "chapter": 23,
+    "front": "Why is three-point molding done with the palms, not fingertips?",
+    "back": "A fingertip leaves a focal indentation that becomes a pressure sore. Three-point molding with the broad flats of the palms opposes the deforming force to hold the reduction while the material cures."
+  },
+  {
+    "id": 352,
+    "chapter": 23,
+    "front": "Describe the sugar-tong splint and its indication.",
+    "back": "A single long slab from the dorsal metacarpal heads around the flexed elbow and back along the volar forearm to the palm. By encircling the elbow it controls pronation and supination, preferred for displaced distal radius and forearm fractures."
+  },
+  {
+    "id": 353,
+    "chapter": 23,
+    "front": "How is the elbow positioned for a displaced supracondylar fracture splint?",
+    "back": "Near 70 degrees rather than full flexion, because tight flexion compresses the antecubital structures and can compromise the brachial artery and median nerve. A long-arm posterior splint is used."
+  },
+  {
+    "id": 354,
+    "chapter": 23,
+    "front": "What is the thumb spica splint used for in children?",
+    "back": "Suspected scaphoid injury, which may not appear on initial films and is splinted on clinical suspicion alone. It runs along the radial forearm and encircles the thumb."
+  },
+  {
+    "id": 355,
+    "chapter": 23,
+    "front": "How is the splint layered from the skin outward?",
+    "back": "Wrinkle-free stockinette first, then two to four overlapping layers of cast padding (Webril) with extra over bony prominences, then the rigid plaster or fiberglass slab, finished with a tension-free elastic wrap."
+  },
+  {
+    "id": 356,
+    "chapter": 23,
+    "front": "Which bony prominence requires careful padding to protect the peroneal nerve?",
+    "back": "The head of the fibula, where the superficial peroneal nerve crosses, especially in the posterior long-leg splint. Pad extra over the olecranon, styloids, malleoli, heel, and thumb base as well."
+  },
+  {
+    "id": 357,
+    "chapter": 23,
+    "front": "What is the cardinal early warning of compartment syndrome under a splint?",
+    "back": "Pain out of proportion to the injury, escalating with passive stretch of the muscles, accompanied by paresthesia and a tense compartment. Pulselessness is a late, ominous finding."
+  },
+  {
+    "id": 358,
+    "chapter": 23,
+    "front": "Why are fingertips and toe tips left exposed at the end of a splint?",
+    "back": "So perfusion (color, warmth, capillary refill, and digit movement) can be watched. Never cover them with the elastic wrap."
+  },
+  {
+    "id": 359,
+    "chapter": 23,
+    "front": "What aftercare instructions reduce splint complications?",
+    "back": "Elevate the limb above heart level for 48 to 72 hours, apply ice over (not under) the splint, keep it clean and dry, and move the free fingers or toes. Teach return precautions for pain, numbness, pale or cold digits, and a tight or wet splint."
+  },
+  {
+    "id": 360,
+    "chapter": 23,
+    "front": "Why must rings and watches be removed before splinting?",
+    "back": "They become inescapable tourniquets once swelling advances. Expose the entire limb so distal perfusion can be observed, and anticipate swelling that has not yet occurred."
+  },
+  {
+    "id": 361,
+    "chapter": 23,
+    "front": "What contributes to splint thermal injury?",
+    "back": "Dip water above 24 degrees Celsius, slabs beyond roughly 10 to 12 plaster layers, and insulation during the cure such as resting on a heat-trapping pillow or wrapping an impervious layer. Skin contact above about 49 degrees can cause full-thickness burns."
+  },
+  {
+    "id": 362,
+    "chapter": 24,
+    "front": "What synovial fluid white cell count raises strong concern for septic arthritis?",
+    "back": "A count exceeding 50,000 cells per microliter with polymorphonuclear predominance above 75 percent, and counts can exceed 100,000 in established infection. However, no single threshold excludes infection, particularly with partial treatment."
+  },
+  {
+    "id": 363,
+    "chapter": 24,
+    "front": "What is the principal contraindication to arthrocentesis?",
+    "back": "Overlying cellulitis or skin infection at the planned puncture site, because passing a needle through infected tissue can seed a sterile joint. Use an alternative angle or ultrasound-guided puncture through clean skin."
+  },
+  {
+    "id": 364,
+    "chapter": 24,
+    "front": "Describe the superolateral approach for knee arthrocentesis and needle choice.",
+    "back": "With the leg extended and quadriceps relaxed, enter one fingerbreadth superior and one fingerbreadth lateral to the superolateral patellar pole, directing toward the intercondylar notch. Use an 18-gauge needle for viscous fluid."
+  },
+  {
+    "id": 365,
+    "chapter": 24,
+    "front": "What is the mechanism and peak age of nursemaid's elbow?",
+    "back": "Sudden longitudinal traction on a pronated, extended forearm causes the annular ligament to slip over the radial head and become entrapped. Peak incidence is one to four years, clustering between two and three."
+  },
+  {
+    "id": 366,
+    "chapter": 24,
+    "front": "What is the preferred first-line maneuver to reduce nursemaid's elbow?",
+    "back": "The hyperpronation technique, with the elbow at about 90 degrees, firmly hyperpronating the forearm (palm downward and outward), often with a brief flexion. Studies show higher first-attempt success than supination-flexion."
+  },
+  {
+    "id": 367,
+    "chapter": 24,
+    "front": "How is success of a nursemaid's elbow reduction judged?",
+    "back": "A palpable or audible click felt by the thumb over the radial head (not universal), followed by return of spontaneous arm use within five to thirty minutes, often reaching for an offered toy or sticker."
+  },
+  {
+    "id": 368,
+    "chapter": 24,
+    "front": "When should radiographs be obtained for a suspected nursemaid's elbow?",
+    "back": "When the history is atypical, there is swelling, ecchymosis, or focal bony tenderness, a fall or direct blow is described, or reduction attempts fail and the child does not regain function, to exclude supracondylar or lateral condyle fracture."
+  },
+  {
+    "id": 369,
+    "chapter": 24,
+    "front": "What delta pressure threshold indicates compartment syndrome?",
+    "back": "A delta (perfusion) pressure less than 30 mmHg, calculated as diastolic blood pressure minus compartment pressure, indicates compartment syndrome and the need for emergent fasciotomy. It accounts for the hypotensive or anesthetized patient."
+  },
+  {
+    "id": 370,
+    "chapter": 24,
+    "front": "Why is pulselessness an unreliable sign of compartment syndrome?",
+    "back": "It is a late and ominous finding; a palpable distal pulse is fully compatible with established compartment syndrome. Act on pain on passive stretch, the earliest and most reliable sign, rather than waiting for a pulse to disappear."
+  },
+  {
+    "id": 371,
+    "chapter": 24,
+    "front": "Why is compartment pressure measurement indispensable in the preverbal or obtunded child?",
+    "back": "Such children cannot report the disproportionate pain that is the earliest, most sensitive symptom, so a measured number is needed to confirm or exclude the diagnosis when clinical signs are unavailable."
+  },
+  {
+    "id": 372,
+    "chapter": 24,
+    "front": "Describe the Stryker handheld manometer technique for compartment pressure.",
+    "back": "Assemble and prime the device with sterile saline to eliminate air, zero it at limb level, insert the needle perpendicular into the muscle belly, inject a small saline volume, and read the equilibrated pressure. Measure each compartment separately."
+  },
+  {
+    "id": 373,
+    "chapter": 24,
+    "front": "Why withhold antibiotics until cultures are drawn in suspected septic arthritis?",
+    "back": "Antibiotics reduce culture yield. Ideally withhold them until joint and blood cultures are obtained, unless the child is septic, in which case empiric therapy is not delayed for the procedure."
+  },
+  {
+    "id": 374,
+    "chapter": 24,
+    "front": "How quickly does muscle necrosis become irreversible in compartment syndrome?",
+    "back": "After roughly six to eight hours of ischemia. Fasciotomy must be performed urgently, ideally within hours of diagnosis, releasing all involved compartments to restore perfusion."
+  },
+  {
+    "id": 375,
+    "chapter": 24,
+    "front": "What does normal synovial fluid look like, and what does inflammatory fluid look like?",
+    "back": "Normal fluid is clear, pale yellow, and highly viscous, forming a long string. Inflammatory fluid is turbid and less viscous; frankly purulent fluid is opaque and may be greenish."
+  },
+  {
+    "id": 376,
+    "chapter": 24,
+    "front": "Pending fasciotomy, how should the affected limb be positioned?",
+    "back": "At heart level rather than elevated, because elevation lowers arterial inflow and worsens perfusion. Also remove constricting casts and dressings, correct hypotension, and provide analgesia while arranging surgery."
+  },
+  {
+    "id": 377,
+    "chapter": 25,
+    "front": "Why is tension pneumothorax a clinical, not radiographic, diagnosis in children?",
+    "back": "A child decompensates faster than an adult because the mobile mediastinum shifts readily, kinking the great veins. Waiting for a chest film in an unstable patient is a fatal error; treat immediately."
+  },
+  {
+    "id": 378,
+    "chapter": 25,
+    "front": "What are the two accepted sites for needle thoracostomy, and which is preferred?",
+    "back": "The second intercostal space at the midclavicular line, or the fourth or fifth intercostal space at the anterior axillary line, which is now preferred because the chest wall there is thinner. Always insert above the rib."
+  },
+  {
+    "id": 379,
+    "chapter": 25,
+    "front": "Why is needle decompression only a temporizing measure?",
+    "back": "The cannula kinks, clots, or dislodges within minutes, converting a tension pneumothorax into a simple one only briefly. Definitive tube thoracostomy must follow without delay."
+  },
+  {
+    "id": 380,
+    "chapter": 25,
+    "front": "What is the safe triangle for tube thoracostomy?",
+    "back": "Bordered anteriorly by the lateral edge of pectoralis major, posteriorly by latissimus dorsi, and inferiorly by a horizontal line at the nipple level, with the apex below the axilla. Insert at the fourth or fifth intercostal space, anterior to mid axillary line."
+  },
+  {
+    "id": 381,
+    "chapter": 25,
+    "front": "Why must a sharp trocar never be used for pediatric chest tube placement?",
+    "back": "It is responsible for catastrophic lung and cardiac lacerations. Use blunt dissection with a curved Kelly clamp and a finger sweep to confirm intrapleural position and clear adhesions or viscera."
+  },
+  {
+    "id": 382,
+    "chapter": 25,
+    "front": "How is chest tube French size selected, and which fluid needs a larger bore?",
+    "back": "By weight, ranging from 8 to 12 Fr in neonates to 32 to 38 Fr in adolescents. A hemothorax requires a larger bore to prevent clot obstruction; a pure pneumothorax drains with a smaller tube or pigtail (8 to 14 Fr)."
+  },
+  {
+    "id": 383,
+    "chapter": 25,
+    "front": "What is finger thoracostomy and when is it favored?",
+    "back": "An incision and blunt dissection with a finger sweep through the parietal pleura, the opening half of a tube thoracostomy. Favored in the intubated or peri-arrest child because it reliably reaches the pleura and decompresses both air and blood."
+  },
+  {
+    "id": 384,
+    "chapter": 25,
+    "front": "How is an open pneumothorax (sucking chest wound) initially managed?",
+    "back": "Sealed with a three-sided occlusive dressing that vents air on expiration while preventing entrainment on inspiration. This differs from the needle decompression used for a tension pneumothorax."
+  },
+  {
+    "id": 385,
+    "chapter": 25,
+    "front": "When is emergency department thoracotomy reasonable in a child?",
+    "back": "Mainly for penetrating thoracic trauma with signs of life on arrival or witnessed loss of vitals with cardiac arrest under 15 minutes of CPR. For blunt trauma, only if pulses are lost in front of the team with under 10 minutes of arrest."
+  },
+  {
+    "id": 386,
+    "chapter": 25,
+    "front": "How is the pericardium opened during ED thoracotomy?",
+    "back": "Longitudinally and anterior to the phrenic nerve, to relieve tamponade and expose the heart. Repair myocardial wounds with digital pressure, a Foley balloon, or pledget-buttressed sutures."
+  },
+  {
+    "id": 387,
+    "chapter": 25,
+    "front": "What chest tube output triggers concern for surgical exploration?",
+    "back": "Ongoing bloody output exceeding 2 to 3 mL/kg per hour, or an initial output greater than 15 to 20 mL/kg. Record drainage hourly."
+  },
+  {
+    "id": 388,
+    "chapter": 25,
+    "front": "What does continuous bubbling versus tidaling indicate in the water-seal chamber?",
+    "back": "Continuous bubbling indicates an air leak. Tidaling, the rise and fall of the fluid column with respiration, confirms patency and pleural communication and is expected; loss of tidaling suggests obstruction, kinking, or full re-expansion."
+  },
+  {
+    "id": 389,
+    "chapter": 25,
+    "front": "Why must a bubbling chest tube never be clamped during transport?",
+    "back": "Clamping can recreate a tension pneumothorax. Keep the drainage system below chest level, keep tubing free of dependent loops, and use low suction of minus 10 to minus 20 cm water in children."
+  },
+  {
+    "id": 390,
+    "chapter": 25,
+    "front": "How is the chest tube removed and confirmed?",
+    "back": "At end-inspiration or during a Valsalva maneuver, tying the purse-string or applying an occlusive petrolatum-gauze dressing, then confirm with a post-removal radiograph that no pneumothorax recurred."
+  },
+  {
+    "id": 391,
+    "chapter": 25,
+    "front": "What is re-expansion pulmonary edema and how is it minimized?",
+    "back": "Cough, hypoxia, and ipsilateral infiltrate within hours of evacuating a large chronic collection. Minimize by draining large effusions in stages and avoiding aggressive suction immediately after a chronically collapsed lung re-expands."
+  },
+  {
+    "id": 392,
+    "chapter": 26,
+    "front": "Why does the young child's spine sustain more high cervical injuries?",
+    "back": "A disproportionately large head, weak neck muscles, lax ligaments, and incompletely ossified vertebrae shift the cervical fulcrum upward to C2 to C3 (versus C5 to C6 in adults), favoring atlanto-occipital and odontoid injuries."
+  },
+  {
+    "id": 393,
+    "chapter": 26,
+    "front": "What is SCIWORA and what imaging reveals it?",
+    "back": "Spinal cord injury without radiographic abnormality, where the cartilaginous spine stretches and recoils while the cord is damaged. Plain films and CT can appear normal; MRI is the study that reveals the lesion."
+  },
+  {
+    "id": 394,
+    "chapter": 26,
+    "front": "How is neutral spinal immobilization achieved in a small child?",
+    "back": "With occipital offset: raise the torso or recess the head so the external auditory meatus aligns with the shoulders, roughly two centimeters of torso elevation, preventing the cervical flexion a flat board would cause."
+  },
+  {
+    "id": 395,
+    "chapter": 26,
+    "front": "In what order are the torso and head secured to a spinal device?",
+    "back": "Secure the torso first, then the head with blocks and tape across the forehead and the collar, never across the chin. Strapping the head before the body risks distracting the neck if the torso shifts."
+  },
+  {
+    "id": 396,
+    "chapter": 26,
+    "front": "Describe the two-person helmet removal technique.",
+    "back": "One provider stabilizes the helmet and neck with hands on the helmet sides and fingers on the mandible; the second cuts the chin strap and takes over in-line stabilization at the occiput and mandible. The first expands and rocks the helmet free without pulling straight."
+  },
+  {
+    "id": 397,
+    "chapter": 26,
+    "front": "Where is a tourniquet applied and how is timing handled?",
+    "back": "5 to 7 cm proximal to the wound (or high on the limb if the source is unclear), tightened until bleeding stops and the distal pulse is eliminated, with the application time recorded on the device and chart. It is not intermittently released in the field."
+  },
+  {
+    "id": 398,
+    "chapter": 26,
+    "front": "Where is a pelvic binder centered, and why not the iliac crests?",
+    "back": "Over the greater trochanters. Placed at the iliac crests it compresses ineffectively and may worsen an open-book pattern. Bind the legs internally rotated; leave the binder undisturbed until imaging and a surgical decision."
+  },
+  {
+    "id": 399,
+    "chapter": 26,
+    "front": "What are the three zones of penetrating neck injury?",
+    "back": "Zone I from clavicles to cricoid cartilage, zone II from cricoid to the angle of the mandible, and zone III above the angle to the skull base. Zone II is most commonly injured and most surgically accessible."
+  },
+  {
+    "id": 400,
+    "chapter": 26,
+    "front": "Why is an impaled object never removed in the field or resuscitation bay?",
+    "back": "It may be tamponading a lacerated vessel. Stabilize, pad, and secure it in place, and remove it only in the operating room with vascular control established."
+  },
+  {
+    "id": 401,
+    "chapter": 26,
+    "front": "What is the tranexamic acid (TXA) regimen and timing for pediatric trauma?",
+    "back": "A loading dose of 15 mg/kg up to 1 gram over ten minutes, followed by 2 mg/kg per hour. It must be started within three hours of injury, as later administration confers no benefit and may increase harm."
+  },
+  {
+    "id": 402,
+    "chapter": 26,
+    "front": "Why is hypotension a late sign of hemorrhage in children?",
+    "back": "Compensatory tachycardia and vasoconstriction maintain blood pressure until 30 to 45 percent of blood volume is lost, after which decompensation is abrupt. Tachycardia is the earliest, most reliable sign of compensated shock."
+  },
+  {
+    "id": 403,
+    "chapter": 26,
+    "front": "What is balanced resuscitation in pediatric trauma?",
+    "back": "Minimize crystalloid and transfuse blood products early in a ratio approximating whole blood, often 1:1:1 packed red cells, plasma, and platelets. Transfuse packed cells at 10 to 20 mL/kg, reassessing perfusion after each aliquot."
+  },
+  {
+    "id": 404,
+    "chapter": 26,
+    "front": "What is the lethal triad and how is it countered?",
+    "back": "Hypothermia, acidosis, and coagulopathy, each deepening the others. Counter it by removing wet clothing, warming the child with blankets and forced air, raising room temperature, and warming all IV fluids and blood. Warming is a coagulation intervention."
+  },
+  {
+    "id": 405,
+    "chapter": 26,
+    "front": "How is the lower acceptable systolic pressure estimated in children one to ten?",
+    "back": "Roughly 70 plus twice the age in years. A value below this in a trauma patient is hemorrhagic shock until proven otherwise."
+  },
+  {
+    "id": 406,
+    "chapter": 26,
+    "front": "What is the first and most effective maneuver for external hemorrhage?",
+    "back": "Firm, focused direct pressure over the bleeding point with a gloved hand and gauze, held continuously rather than peeked at. For deep wounds, pack gauze directly onto the bleeding vessel, then sustain pressure."
+  },
+  {
+    "id": 407,
+    "chapter": 27,
+    "front": "What is the vital sign of the eye, and how is it tested by age?",
+    "back": "Visual acuity. Use a Snellen chart for the literate child, a tumbling-E or picture chart for the preschooler, and fixation behavior or following a face for the preverbal infant, testing each eye separately."
+  },
+  {
+    "id": 408,
+    "chapter": 27,
+    "front": "What signs suggest globe rupture, and what is the immediate response?",
+    "back": "A teardrop or irregular pupil, a Seidel-positive cornea, or prolapsing uveal tissue. Stop the examination, shield the eye with a rigid cover (never a pressure patch), and avoid any maneuver that raises intraocular pressure including tonometry."
+  },
+  {
+    "id": 409,
+    "chapter": 27,
+    "front": "How does fluorescein reveal a corneal abrasion?",
+    "back": "Under cobalt-blue light, intact epithelium stays dark while a break absorbs the dye and fluoresces bright green. A vertical or linear abrasion pattern suggests a foreign body trapped under the upper lid."
+  },
+  {
+    "id": 410,
+    "chapter": 27,
+    "front": "Why are topical anesthetic drops never a discharge treatment?",
+    "back": "Repeated use is toxic to the corneal epithelium and delays healing. They are diagnostic and procedural aids only, instilled to relieve blepharospasm and enable examination."
+  },
+  {
+    "id": 411,
+    "chapter": 27,
+    "front": "How is a chemical eye burn managed, and why are alkali burns worse?",
+    "back": "Begin copious irrigation immediately, before history or acuity, until the fornix pH normalizes to 7.0 to 7.4 (often 1 to 2 liters or more per eye). Alkali saponifies membranes and penetrates rapidly, causing progressive liquefactive necrosis."
+  },
+  {
+    "id": 412,
+    "chapter": 27,
+    "front": "How is a corneal foreign body removed under the slit lamp?",
+    "back": "With the beveled tip of a 25 or 27 gauge needle or a spud, approaching tangentially bevel-up, stabilizing the hand against the cheek, and flicking the object away from the visual axis. A struggling toddler is referred rather than risking perforation."
+  },
+  {
+    "id": 413,
+    "chapter": 27,
+    "front": "How is a hyphema graded and positioned?",
+    "back": "Graded by chamber fill: grade I under one-third, II one-third to one-half, III over half, IV (eight-ball) complete. Place the child at rest with the head elevated 30 to 45 degrees and a rigid shield; rebleeding peaks days three to five."
+  },
+  {
+    "id": 414,
+    "chapter": 27,
+    "front": "Why must sickle-cell status be checked in a child with hyphema?",
+    "back": "Sickled erythrocytes obstruct the trabecular meshwork even with a small hyphema, and the optic nerve tolerates pressure poorly. Carbonic anhydrase inhibitors and hyperosmotics are relatively contraindicated in these patients."
+  },
+  {
+    "id": 415,
+    "chapter": 27,
+    "front": "What antibiotics are preferred for a corneal abrasion in a contact-lens wearer?",
+    "back": "A fluoroquinolone such as ciprofloxacin or ofloxacin, because of the heightened risk of Pseudomonas keratitis. Avoid aminoglycosides, which are toxic to regenerating epithelium, and do not patch."
+  },
+  {
+    "id": 416,
+    "chapter": 27,
+    "front": "What is the time window before optic nerve ischemia in orbital compartment syndrome?",
+    "back": "Retinal ischemia becomes irreversible within roughly 90 to 120 minutes. Diagnose clinically (tense proptotic eye, decreased vision, afferent pupillary defect, raised intraocular pressure) and decompress immediately without waiting for CT."
+  },
+  {
+    "id": 417,
+    "chapter": 27,
+    "front": "What is the critical step of lateral canthotomy and cantholysis?",
+    "back": "After the horizontal skin and conjunctival canthotomy incision, perform cantholysis by strumming and cutting the inferior crus of the lateral canthal tendon, which releases the lower lid sling. The skin incision alone accomplishes nothing."
+  },
+  {
+    "id": 418,
+    "chapter": 27,
+    "front": "What lid laceration features mandate specialist repair?",
+    "back": "Involvement of the lid margin (notching risk), the medial canaliculus (lifelong epiphora without stented repair within 24 to 48 hours), or the orbital septum (ptosis, fat protrusion, possible levator or occult globe injury)."
+  },
+  {
+    "id": 419,
+    "chapter": 27,
+    "front": "What is the management of a confirmed open globe before ophthalmology arrives?",
+    "back": "Shield with a rigid Fox shield resting on bone with no pressure on the globe, keep the child NPO, give an antiemetic to prevent Valsalva, control pain, start IV broad-spectrum antibiotics, and update tetanus."
+  },
+  {
+    "id": 420,
+    "chapter": 27,
+    "front": "Which handheld tonometer requires no topical anesthetic?",
+    "back": "The iCare rebound tonometer, which propels a tiny disposable probe against the cornea and is often tolerated by toddlers. Never measure pressure on an eye with a suspected open globe."
+  },
+  {
+    "id": 421,
+    "chapter": 27,
+    "front": "What posterior segment symptoms are red flags after blunt eye trauma?",
+    "back": "Persistent floaters or flashes of light, a curtain or shadow crossing the visual field, or a sudden drop in acuity, all raising concern for retinal detachment or vitreous hemorrhage and demanding urgent referral."
+  },
+  {
+    "id": 422,
+    "chapter": 28,
+    "front": "Where does most pediatric epistaxis originate, and what is the first measure?",
+    "back": "Kiesselbach plexus in Little area on the anteroinferior septum. Have the child sit upright and lean forward, then apply firm continuous pinch pressure over the cartilaginous nose for a full 10 to 15 minutes without releasing."
+  },
+  {
+    "id": 423,
+    "chapter": 28,
+    "front": "Why is bilateral simultaneous septal cautery avoided?",
+    "back": "Cauterizing both sides at the same sitting can devascularize the cartilage between them and produce a septal perforation. Cautery is also ineffective on a briskly bleeding vessel that cannot be seen."
+  },
+  {
+    "id": 424,
+    "chapter": 28,
+    "front": "How is an anterior nasal pack inserted, and what infection is a key risk?",
+    "back": "Insert the lubricated tampon straight back along the nasal floor parallel to the hard palate, then hydrate to expand it. Toxic shock syndrome is a rare but serious risk, so packed children receive antistaphylococcal coverage with removal in 24 to 72 hours."
+  },
+  {
+    "id": 425,
+    "chapter": 28,
+    "front": "Why is a button battery in the nose or ear a true emergency?",
+    "back": "Contact with moist mucosa generates hydroxide ions and an alkaline burn with liquefactive necrosis beginning within two hours, risking septal or tympanic perforation. It must be removed emergently, not deferred."
+  },
+  {
+    "id": 426,
+    "chapter": 28,
+    "front": "Why is irrigation avoided for a button battery in the nose or ear?",
+    "back": "Water accelerates the electrochemical reaction and spreads the alkaline injury. The battery is directly accessible and simply removed; the honey and acetic acid mitigation strategies apply only to esophageal batteries."
+  },
+  {
+    "id": 427,
+    "chapter": 28,
+    "front": "What is the positive-pressure (parent's kiss) technique?",
+    "back": "For an anterior nasal foreign body in a cooperative child: occlude the unaffected nostril, have the parent deliver a short puff of air into the child's mouth, and the burst of pressure expels the object atraumatically."
+  },
+  {
+    "id": 428,
+    "chapter": 28,
+    "front": "Why is cerumen irrigation done with body-temperature fluid, and when is it contraindicated?",
+    "back": "Cold or hot water induces caloric vertigo and nausea. Irrigation is contraindicated with a perforated tympanic membrane or a tympanostomy tube, because fluid enters the middle ear."
+  },
+  {
+    "id": 429,
+    "chapter": 28,
+    "front": "What is the time-critical management of an avulsed permanent tooth?",
+    "back": "Handle by the crown only, rinse gently with saline or milk without scrubbing, and reimplant into the socket immediately, then bite on gauze. Periodontal ligament cells die within tens of minutes outside the socket."
+  },
+  {
+    "id": 430,
+    "chapter": 28,
+    "front": "How is an avulsed tooth transported if immediate reimplantation is not possible?",
+    "back": "In Hank balanced salt solution, cold milk, or saliva (inside the cheek if the child will not swallow it), never in dry gauze or water, which is hypotonic and lyses ligament cells."
+  },
+  {
+    "id": 431,
+    "chapter": 28,
+    "front": "Why is an avulsed primary tooth never reimplanted?",
+    "back": "Reimplantation risks damaging the developing permanent tooth bud beneath it. A knocked-out front tooth in a five-year-old is almost certainly primary, while in a nine-year-old it is permanent and time-critical."
+  },
+  {
+    "id": 432,
+    "chapter": 28,
+    "front": "Describe the Ellis classification of crown fractures.",
+    "back": "Ellis I involves enamel only (painless, cosmetic); Ellis II exposes yellow dentin (sensitive, covered with calcium hydroxide or glass-ionomer); Ellis III exposes the pulp (pink or bleeding center, painful, urgent dental evaluation)."
+  },
+  {
+    "id": 433,
+    "chapter": 28,
+    "front": "What does topical tranexamic acid add in anterior epistaxis?",
+    "back": "An antifibrinolytic that stabilizes clot. A pledget soaked in the IV formulation is packed against the bleeding point for ten to fifteen minutes, achieving local hemostasis, particularly useful in a child with a bleeding diathesis or on anticoagulation."
+  },
+  {
+    "id": 434,
+    "chapter": 28,
+    "front": "How does a Foley catheter improvise a posterior nasal pack?",
+    "back": "Pass a 10 to 14 French catheter along the nasal floor until the tip is in the oropharynx, inflate the balloon with 5 to 10 mL of saline (never air), withdraw until it engages the posterior choana, layer an anterior pack, and secure with a soft buttress to avoid alar necrosis."
+  },
+  {
+    "id": 435,
+    "chapter": 28,
+    "front": "What should recurrent unilateral epistaxis in an adolescent male with nasal obstruction suggest?",
+    "back": "Juvenile nasopharyngeal angiofibroma, a benign but highly vascular tumor that bleeds dramatically. Blind biopsy or aggressive packing can provoke torrential hemorrhage, so refer for contrast imaging and otolaryngology rather than instrumenting at the bedside."
+  },
+  {
+    "id": 436,
+    "chapter": 28,
+    "front": "When is a chest radiograph indicated after dental trauma?",
+    "back": "When a tooth or fragment is unaccounted for, consider aspiration. Obtain a chest radiograph (and soft-tissue lip films) in a child with a missing fragment, respiratory symptoms, or depressed consciousness, since an aspirated fragment is radiopaque and can obstruct."
+  },
+  {
+    "id": 437,
+    "chapter": 29,
+    "front": "Why is the orogastric route preferred in neonates and young infants?",
+    "back": "They are obligate nasal breathers, so an NG tube occupies a meaningful fraction of the nasal airway and can precipitate respiratory distress. OG is also mandatory when basal skull fracture or midface trauma is suspected."
+  },
+  {
+    "id": 438,
+    "chapter": 29,
+    "front": "How is gastric tube insertion depth estimated?",
+    "back": "By the NEX measurement: the distance from the nose to the earlobe to a point midway between the xiphoid and umbilicus. Mark this length with tape before passing the tube."
+  },
+  {
+    "id": 439,
+    "chapter": 29,
+    "front": "Why is auscultation unreliable for confirming gastric tube placement?",
+    "back": "A tube in the bronchus or esophagus can transmit similar 'whoosh' sounds. The bedside standard is aspirating gastric contents with a pH of 5.5 or less; radiograph is definitive when aspirate is unobtainable or equivocal."
+  },
+  {
+    "id": 440,
+    "chapter": 29,
+    "front": "How quickly can a mature gastrostomy tract close after tube loss?",
+    "back": "It begins contracting within hours and can close substantially within four to six hours. A dislodged G-tube in a tract older than six to eight weeks should be replaced immediately or the tract stented."
+  },
+  {
+    "id": 441,
+    "chapter": 29,
+    "front": "Why is a dislodged G-tube in a tract under four weeks old not blindly reinserted?",
+    "back": "The immature tract risks creating a false passage into the peritoneum. Such early dislodgements warrant urgent surgical or gastroenterology involvement."
+  },
+  {
+    "id": 442,
+    "chapter": 29,
+    "front": "What is used to inflate a replacement G-tube balloon, and how is position confirmed?",
+    "back": "The manufacturer-specified volume of sterile water, never air or saline. Confirm by aspirating gastric contents at pH 5.5 or less, a flush that runs without resistance, and a water-soluble contrast study under fluoroscopy when doubt persists."
+  },
+  {
+    "id": 443,
+    "chapter": 29,
+    "front": "Why is a lodged esophageal button battery a true emergency?",
+    "back": "It generates a local hydroxide current that liquefies tissue, producing full-thickness necrosis within two hours and risking tracheoesophageal fistula and aortoenteric erosion. It must be removed endoscopically without delay."
+  },
+  {
+    "id": 444,
+    "chapter": 29,
+    "front": "What radiographic signs distinguish a button battery from a coin?",
+    "back": "A button battery shows a double-ring or halo sign on the AP view and a step-off on the lateral film. An esophageal coin appears as a full circle (face-on) on the AP view."
+  },
+  {
+    "id": 445,
+    "chapter": 29,
+    "front": "What honey regimen bridges to endoscopy for an esophageal button battery?",
+    "back": "In a child over 12 months who ingested the battery within the preceding hour, 10 mL of honey every 10 minutes for a few doses coats the battery and buffers the alkaline injury. It is a bridge, never a substitute, for emergent endoscopy."
+  },
+  {
+    "id": 446,
+    "chapter": 29,
+    "front": "Why are two or more magnets dangerous when swallowed?",
+    "back": "The pieces attract across intervening bowel loops, trapping tissue between them and producing pressure necrosis, fistula, perforation, volvulus, and obstruction. A single magnet behaves like an ordinary blunt object."
+  },
+  {
+    "id": 447,
+    "chapter": 29,
+    "front": "What size blunt object usually passes the gut without difficulty once in the stomach?",
+    "back": "Objects smaller than roughly 2 cm in diameter and 3 to 5 cm in length. An asymptomatic child with such an object in the stomach can be observed as an outpatient with return precautions."
+  },
+  {
+    "id": 448,
+    "chapter": 29,
+    "front": "What hazard do superabsorbent polymer beads pose, and how are they evaluated?",
+    "back": "They are radiolucent and can swell many times their size, causing intestinal obstruction that plain films may miss. A history of swallowing one warrants ultrasound or contrast study and a low threshold for surgical consultation."
+  },
+  {
+    "id": 449,
+    "chapter": 29,
+    "front": "How is gastric intubation handled in caustic or button-battery esophageal injury?",
+    "back": "Blind passage is avoided in favor of endoscopically guided placement, because a weakened esophageal wall is easily perforated. Induced emesis and neutralizing agents are contraindicated."
+  },
+  {
+    "id": 450,
+    "chapter": 29,
+    "front": "What is buried bumper syndrome?",
+    "back": "An internal G-tube bolster erodes into the gastric or abdominal wall, presenting with pain, leakage, and resistance to rotation. It requires endoscopic or surgical attention rather than reflexive tube exchange."
+  },
+  {
+    "id": 451,
+    "chapter": 29,
+    "front": "How is peristomal G-tube leakage managed?",
+    "back": "Check that the balloon holds its full volume and the bolster is seated, since a deflated or undersized balloon lets contents track around the tube. Upsizing the tube to fill a widened stoma usually worsens leakage and is avoided."
+  },
+  {
+    "id": 452,
+    "chapter": 29,
+    "front": "Why must the airway be secured before gastric lavage in a child with depressed consciousness?",
+    "back": "To prevent aspiration. Gastric lavage is now rarely indicated, reserved for recent life-threatening ingestions of agents not bound by charcoal, within about an hour, and only with a protected airway. Use body-temperature saline aliquots of 10 mL/kg."
+  },
+  {
+    "id": 453,
+    "chapter": 30,
+    "front": "Why is catheterization preferred over a bag specimen in the febrile young child?",
+    "back": "Catheterized urine is far more reliable for diagnosing urinary tract infection, while bag specimens carry unacceptable contamination rates. The principal contraindication is suspected urethral injury."
+  },
+  {
+    "id": 454,
+    "chapter": 30,
+    "front": "What trauma signs contraindicate urethral catheterization pending urethrography?",
+    "back": "Blood at the meatus, a high-riding or boggy prostate, or perineal hematoma, all signaling possible urethral injury. A retrograde urethrogram precedes any instrumentation."
+  },
+  {
+    "id": 455,
+    "chapter": 30,
+    "front": "Why must a retracted foreskin always be reduced after catheterization?",
+    "back": "To prevent paraphimosis, where the foreskin trapped behind the glans impedes venous and lymphatic drainage, causing progressive edema and, untreated, ischemic necrosis. Paraphimosis is frequently iatrogenic."
+  },
+  {
+    "id": 456,
+    "chapter": 30,
+    "front": "Why is suprapubic aspiration anatomically feasible in infants but not older children?",
+    "back": "The infant bladder is an intra-abdominal organ that rises above the pubic symphysis when full. As the child grows, the bladder descends into the bony pelvis shielded by the symphysis, so beyond roughly two years the procedure becomes impractical."
+  },
+  {
+    "id": 457,
+    "chapter": 30,
+    "front": "Describe the suprapubic aspiration site and needle.",
+    "back": "Insert a 22- or 23-gauge needle 1 to 2 cm above the pubic symphysis in the midline, perpendicular or angled slightly caudad, under ultrasound guidance after confirming adequate bladder filling; urine returns at a depth of a centimeter or two."
+  },
+  {
+    "id": 458,
+    "chapter": 30,
+    "front": "Why is any bacterial growth from a suprapubic sample regarded as significant?",
+    "back": "Because the specimen is the cleanest obtainable, free of urethral and skin flora, in contrast to the colony-count thresholds applied to catheterized or voided urine."
+  },
+  {
+    "id": 459,
+    "chapter": 30,
+    "front": "How is glanular edema reduced before manual paraphimosis reduction?",
+    "back": "Provide analgesia, then apply firm steady manual compression of the glans for several minutes, aided by an elastic wrap, ice within a glove, or osmotic agents such as granulated sugar or 50% dextrose gauze, which may need 30 minutes to draw out fluid."
+  },
+  {
+    "id": 460,
+    "chapter": 30,
+    "front": "What anesthetic block enables paraphimosis reduction, and what is contraindicated?",
+    "back": "A dorsal penile nerve block with plain lidocaine. Epinephrine is contraindicated in the penile circulation. The block allows the sustained compression and manipulation the technique requires."
+  },
+  {
+    "id": 461,
+    "chapter": 30,
+    "front": "How is an incarcerated inguinal hernia reduced?",
+    "back": "Calm the child supine, often in Trendelenburg with a cold pack, guide the hernia neck at the external ring with one hand and apply gentle sustained pressure over the distal sac with the other, directing contents back along the inguinal canal over minutes."
+  },
+  {
+    "id": 462,
+    "chapter": 30,
+    "front": "What distinguishes a strangulated hernia, and why is reduction contraindicated?",
+    "back": "Tense swelling, marked tenderness, overlying erythema, bilious vomiting, and systemic toxicity indicate compromised blood supply. Reduction is contraindicated because forcing dead or perforated bowel into the peritoneum (reduction en masse) is catastrophic; immediate operation is required."
+  },
+  {
+    "id": 463,
+    "chapter": 30,
+    "front": "In which children is incarcerated inguinal hernia most common?",
+    "back": "Infants, particularly premature boys, in whom the processus vaginalis is most often patent. The hernia is almost always indirect."
+  },
+  {
+    "id": 464,
+    "chapter": 30,
+    "front": "What is the differential for an acute groin or scrotal mass in a boy?",
+    "back": "Incarcerated hernia, a transilluminating nontender hydrocele, a communicating hydrocele that fluctuates, and critically testicular torsion (acutely painful high-riding testis with a normal inguinal canal). Doppler ultrasound resolves uncertainty."
+  },
+  {
+    "id": 465,
+    "chapter": 30,
+    "front": "What follow-up does a reduced incarcerated hernia require?",
+    "back": "Admission or close observation and urgent surgical consultation, with definitive repair typically within a day or two once edema settles, because an unrepaired hernia will incarcerate again. Watch for signs that compromised bowel was returned."
+  },
+  {
+    "id": 466,
+    "chapter": 30,
+    "front": "What catheter caliber is appropriate for a neonate versus an adolescent?",
+    "back": "Neonates take a 5 French (often a 3.5 or 5 French feeding tube for in-and-out specimens), while adolescents take 10 to 12 French. A straight feeding tube suffices for a single specimen and reduces trauma."
+  },
+  {
+    "id": 467,
+    "chapter": 30,
+    "front": "How is a catheter mistakenly passed into the vagina handled?",
+    "back": "Leave it in place as a landmark while a second sterile catheter is directed into the urethra above it. In infants the meatus is found just above the hymenal ring with gentle labial traction."
+  },
+  {
+    "id": 468,
+    "chapter": 30,
+    "front": "What comfort measures raise suprapubic aspiration success?",
+    "back": "A sucrose-dipped pacifier and swaddling calm the infant and reduce premature voiding, topical anesthetic eases the brief pain, and timing the attempt about an hour after a feed ensures the bladder has filled."
+  },
+  {
+    "id": 469,
+    "chapter": 31,
+    "front": "Where does the conus medullaris lie in the neonate, and which interspaces are used?",
+    "back": "Near L3 in the neonate, ascending to the adult L1 to L2 level by about one year. Infant lumbar punctures use the L4 to L5 or L5 to S1 interspace to stay below the conus."
+  },
+  {
+    "id": 470,
+    "chapter": 31,
+    "front": "What landmark identifies the L4 level for lumbar puncture?",
+    "back": "The intercristal (Tuffier) line, drawn between the tops of the iliac crests, crosses the spine at approximately the L4 spinous process or the L4 to L5 interspace."
+  },
+  {
+    "id": 471,
+    "chapter": 31,
+    "front": "What findings contraindicate lumbar puncture or mandate imaging first?",
+    "back": "Focal neurologic deficits, deteriorating or markedly depressed consciousness, posturing, abnormal pupils, and the Cushing triad, because of herniation risk. A bulging fontanelle alone in a stable infant is not a contraindication."
+  },
+  {
+    "id": 472,
+    "chapter": 31,
+    "front": "What is the standard needle gauge for diagnostic LP, and why are atraumatic needles preferred?",
+    "back": "Gauge 22 balances fluid flow against a small dural defect. Atraumatic (pencil-point) needles spread rather than cut dural fibers, reducing post-dural-puncture headache, and are preferred in children old enough to report headache."
+  },
+  {
+    "id": 473,
+    "chapter": 31,
+    "front": "What is the normal opening pressure in children, and what position is required?",
+    "back": "Approximately 10 to 28 cm H2O, higher than the adult ceiling. A valid reading requires the lateral recumbent position with the legs relaxed and the child calm; crying and tight flexion falsely elevate it."
+  },
+  {
+    "id": 474,
+    "chapter": 31,
+    "front": "In which direction is the LP needle aimed?",
+    "back": "In the midline, slightly cephalad toward the umbilicus. Advance slowly with frequent stylet checks; if bone is met, withdraw to subcutaneous tissue and redirect rather than dragging the tip."
+  },
+  {
+    "id": 475,
+    "chapter": 31,
+    "front": "Should antibiotics be withheld for the LP in suspected bacterial meningitis?",
+    "back": "No. Empiric therapy is given first and the tap performed when the child is stabilized, accepting that prior antibiotics may reduce culture yield. Untreated bacterial meningitis, especially in neonates, is rapidly lethal."
+  },
+  {
+    "id": 476,
+    "chapter": 31,
+    "front": "What CSF profile distinguishes bacterial from viral meningitis?",
+    "back": "Bacterial meningitis classically produces a neutrophilic pleocytosis with low glucose and high protein; viral meningitis shows a lymphocytic predominance with relatively preserved glucose. Send paired serum glucose to interpret the ratio."
+  },
+  {
+    "id": 477,
+    "chapter": 31,
+    "front": "What presentations suggest ventriculoperitoneal shunt malfunction?",
+    "back": "Headache, vomiting, lethargy, irritability, or a bulging fontanelle. Infants may show splayed sutures, a rapidly enlarging head, and the sunsetting sign. Any shunt child with concerning symptoms is presumed to have a malfunction until proven otherwise."
+  },
+  {
+    "id": 478,
+    "chapter": 31,
+    "front": "What needle is used for a shunt tap, and how is fluid drained?",
+    "back": "A 23- or 25-gauge butterfly needle inserted at a shallow angle into the reservoir dome. Allow fluid to drain by gravity only, never aspirating forcefully, which can collapse the ventricle or draw choroid plexus against the catheter."
+  },
+  {
+    "id": 479,
+    "chapter": 31,
+    "front": "How do shunt tap findings localize the obstruction?",
+    "back": "Easy high-pressure flow points to distal obstruction, while the inability to obtain fluid points to proximal (ventricular catheter) obstruction. Either finding requires definitive neurosurgical management."
+  },
+  {
+    "id": 480,
+    "chapter": 31,
+    "front": "When is an emergent shunt tap a lifesaving maneuver for the EM physician?",
+    "back": "In the rapidly deteriorating child with signs of impending herniation from obstruction; draining CSF from the reservoir lowers pressure and buys time while the operating room is readied, removing only the volume needed to lower pressure safely."
+  },
+  {
+    "id": 481,
+    "chapter": 31,
+    "front": "Why is point-of-care ultrasound a valuable adjunct for infant lumbar puncture?",
+    "back": "Scanning the lumbar spine identifies the midline, marks the interspinous space, and measures depth to the dura before needle placement, raising first-pass success and reducing traumatic taps in infants and obese children."
+  },
+  {
+    "id": 482,
+    "chapter": 31,
+    "front": "Why does a normal head CT not exclude raised intracranial pressure before LP?",
+    "back": "Clinical judgment governs, because a mass lesion or pressure gradient across the foramen magnum can exist with a normal scan. Focal deficits, depressed consciousness, posturing, and abnormal pupils still mandate caution."
+  },
+  {
+    "id": 483,
+    "chapter": 31,
+    "front": "What is the most common LP complication and how is it managed?",
+    "back": "Post-dural-puncture headache, postural and relieved by lying flat. It is mitigated by atraumatic needles and small bore, and managed with hydration, analgesia, caffeine, and an epidural blood patch for refractory cases."
+  },
+  {
+    "id": 484,
+    "chapter": 31,
+    "front": "What analgesia steadies infants and older children for neurologic procedures?",
+    "back": "Topical lidocaine-prilocaine or liposomal lidocaine applied 30 to 60 minutes ahead, plus infiltrated local. In infants, a sucrose solution and non-nutritive sucking provide measurable analgesia; older children may need intranasal midazolam with capnography monitoring."
+  },
+  {
+    "id": 485,
+    "chapter": 32,
+    "front": "Which ultrasound probe is used for shallow pediatric procedural targets?",
+    "back": "A high-frequency linear transducer, roughly 7 to 15 MHz, for vessels, nerves, soft tissue, and superficial abscesses. A curvilinear or phased-array probe penetrates deeper for the FAST windows."
+  },
+  {
+    "id": 486,
+    "chapter": 32,
+    "front": "Compare in-plane and out-of-plane needle visualization.",
+    "back": "Out-of-plane (transverse) shows the vessel as a circle and the needle as a bright dot, requiring you to walk down the beam. In-plane (longitudinal) aligns the probe along the needle so the entire shaft and tip are visible. Always know where the tip is."
+  },
+  {
+    "id": 487,
+    "chapter": 32,
+    "front": "Why is dynamic ultrasound guidance preferred for vascular access?",
+    "back": "The real-time technique watches the needle enter the vessel as it advances, confirming intraluminal placement and avoiding the posterior wall and adjacent artery. It is the standard for pediatric central venous access; static mark-and-stick does not confirm entry in real time."
+  },
+  {
+    "id": 488,
+    "chapter": 32,
+    "front": "How is a vein distinguished from an artery on ultrasound?",
+    "back": "A vein is thin-walled, compressible, and noncompressible only when thrombosed; an artery is round, pulsatile, and resists compression. Color and spectral Doppler confirm the venous waveform before central cannulation."
+  },
+  {
+    "id": 489,
+    "chapter": 32,
+    "front": "Why does a negative FAST never exclude significant pediatric injury?",
+    "back": "Solid-organ injury in children frequently occurs without detectable free fluid, and a small amount of physiologic pelvic free fluid can be normal. A stable child with a concerning mechanism still needs CT or observation."
+  },
+  {
+    "id": 490,
+    "chapter": 32,
+    "front": "What four windows does the FAST examination survey?",
+    "back": "The right upper quadrant (hepatorenal/Morison pouch), the left upper quadrant (splenorenal), the suprapubic (pelvic) view, and the subxiphoid (pericardial) view. Extended FAST adds anterior thoracic views for pneumothorax."
+  },
+  {
+    "id": 491,
+    "chapter": 32,
+    "front": "Where is FAST most useful in pediatric trauma?",
+    "back": "In the hemodynamically unstable child, where a positive scan showing free fluid or pericardial blood expedites the decision to operate without waiting for CT. In the stable child a positive FAST rarely changes nonoperative management."
+  },
+  {
+    "id": 492,
+    "chapter": 32,
+    "front": "How does ultrasound distinguish cellulitis from a drainable abscess?",
+    "back": "Cellulitis shows a cobblestone pattern of edematous fat with bright septa; an abscess appears as a discrete hypoechoic collection demonstrating the squish sign, mobile internal contents when the probe compresses the lesion."
+  },
+  {
+    "id": 493,
+    "chapter": 32,
+    "front": "Why must color Doppler be applied before incising a suspected abscess?",
+    "back": "A pulsatile vessel within or beside the apparent abscess may be a pseudoaneurysm or vascular malformation, and incising it would be disastrous. Doppler also distinguishes a node, branchial cleft cyst, or lymphatic malformation from a drainable collection."
+  },
+  {
+    "id": 494,
+    "chapter": 32,
+    "front": "How do radiolucent foreign bodies such as wood appear on ultrasound?",
+    "back": "As bright echogenic foci with posterior shadowing. Ultrasound locates and characterizes wood and plastic foreign bodies that plain films miss and can guide their removal in real time."
+  },
+  {
+    "id": 495,
+    "chapter": 32,
+    "front": "What advantage do ultrasound-guided nerve blocks offer over deep sedation in children?",
+    "back": "They provide targeted analgesia for fracture reduction, laceration repair, and abscess drainage, reducing or replacing the deep sedation that carries the greatest airway and respiratory risk, and can let a child go home comfortable without recovery from sedation."
+  },
+  {
+    "id": 496,
+    "chapter": 32,
+    "front": "What are the weight-based maximum doses for ultrasound-guided blocks?",
+    "back": "Lidocaine to roughly 4.5 mg/kg (about 7 mg/kg with epinephrine) and bupivacaine to about 2 to 2.5 mg/kg. Compute the maximum before drawing up the drug, aspirate before injection, and inject in small fractionated aliquots."
+  },
+  {
+    "id": 497,
+    "chapter": 32,
+    "front": "What nerve block covers a femur fracture, and how is correct deposition confirmed?",
+    "back": "The fascia iliaca block. Place the needle tip beneath the fascia iliaca lateral to the femoral nerve; correct deposition is confirmed by anesthetic spreading in a flat plane that lifts the fascia off the iliacus muscle, not a localized bleb."
+  },
+  {
+    "id": 498,
+    "chapter": 32,
+    "front": "What confirms correct needle position around a nerve, and what signals injury?",
+    "back": "A spreading hypoechoic ring of anesthetic encircling the nerve confirms correct placement. Injection into the nerve causes the nerve itself to swell and must be stopped at once to prevent injury. Place the tip adjacent to, not within, the nerve."
+  },
+  {
+    "id": 499,
+    "chapter": 32,
+    "front": "What is the antidote for local anesthetic systemic toxicity, and when must it be available?",
+    "back": "Intravenous lipid emulsion 20%, given as a weight-based bolus followed by infusion to sequester the anesthetic and reverse cardiac toxicity. It must be physically available before any block is begun, not retrieved after toxicity appears."
+  },
+  {
+    "id": 500,
+    "chapter": 32,
+    "front": "What vein depth is optimal for an ultrasound-guided peripheral IV?",
+    "back": "0.3 to 0.5 cm deep when possible. Very deep veins require a longer catheter to keep adequate length within the lumen; too little intraluminal purchase fails early. Maximize the approach angle for a deep vein and flatten it for a shallow one."
+  }
+]
